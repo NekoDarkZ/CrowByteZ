@@ -18,4 +18,9 @@ public class ManagerNivel : MonoBehaviour {
 	public void CargarNivel(string pNombreNivel){
 		SceneManager.LoadScene(pNombreNivel);
 	}
+	public void Salir (){
+		Application.Quit ();
+
+		Debug.Log ("Salir");
+	}
 }
