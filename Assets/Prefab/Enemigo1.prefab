@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 212043179915860772}
   - component: {fileID: 50383390859398212}
   - component: {fileID: 60992636645304066}
+  - component: {fileID: 114155488982265428}
   - component: {fileID: 95738888355283398}
   m_Layer: 0
   m_Name: Enemigo1
@@ -37,7 +38,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1081376862799426}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.788, y: -0.197, z: 0}
+  m_LocalPosition: {x: -0.76, y: -1.271, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -129,6 +130,18 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114155488982265428
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1081376862799426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adce229714c6209499e7b48541c42ec0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  protagonist: {fileID: 0}
 --- !u!212 &212043179915860772
 SpriteRenderer:
   m_ObjectHideFlags: 1
