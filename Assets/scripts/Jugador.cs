@@ -6,6 +6,20 @@ public class Jugador : MonoBehaviour {
     
     [SerializeField] float velocidad;
     [SerializeField] float salto;
+    [SerializeField] GameController GC;
+    [SerializeField] bool muerto = false;
+
+
+
+    public void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "bloque")
+        {
+
+            muerto = true;
+            GC.DiegoMuertoEnLaPruebaDeDiseño();
+        }
+    }
     // Use this for initialization
     void Awake () {
 		
@@ -15,6 +29,7 @@ public class Jugador : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
+
         ////Codigo de movimiento////
         if (Input.GetKey(KeyCode.RightArrow))
         {
@@ -92,5 +107,9 @@ public class Jugador : MonoBehaviour {
 
         ////codigo especial////
 
-    }
+
+
+
+
+}
    }

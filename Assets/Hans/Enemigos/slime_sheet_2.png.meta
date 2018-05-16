@@ -1,0 +1,1528 @@
+fileFormatVersion: 2
+guid: f8b0463e61b4b4344aa792a3ed59abea
+timeCreated: 1526457003
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: slime_sheet_2_0
+    21300002: slime_sheet_2_1
+    21300004: slime_sheet_2_2
+    21300006: slime_sheet_2_3
+    21300008: slime_sheet_2_4
+    21300010: slime_sheet_2_5
+    21300012: slime_sheet_2_6
+    21300014: slime_sheet_2_7
+    21300016: slime_sheet_2_8
+    21300018: slime_sheet_2_9
+    21300020: slime_sheet_2_10
+    21300022: slime_sheet_2_11
+    21300024: slime_sheet_2_12
+    21300026: slime_sheet_2_13
+    21300028: slime_sheet_2_14
+    21300030: slime_sheet_2_15
+    21300032: slime_sheet_2_16
+    21300034: slime_sheet_2_17
+    21300036: slime_sheet_2_18
+    21300038: slime_sheet_2_19
+    21300040: slime_sheet_2_20
+    21300042: slime_sheet_2_21
+    21300044: slime_sheet_2_22
+    21300046: slime_sheet_2_23
+    21300048: slime_sheet_2_24
+    21300050: slime_sheet_2_25
+    21300052: slime_sheet_2_26
+    21300054: slime_sheet_2_27
+    21300056: slime_sheet_2_28
+    21300058: slime_sheet_2_29
+    21300060: slime_sheet_2_30
+    21300062: slime_sheet_2_31
+    21300064: slime_sheet_2_32
+    21300066: slime_sheet_2_33
+    21300068: slime_sheet_2_34
+    21300070: slime_sheet_2_35
+    21300072: slime_sheet_2_36
+    21300074: slime_sheet_2_37
+    21300076: slime_sheet_2_38
+    21300078: slime_sheet_2_39
+    21300080: slime_sheet_2_40
+    21300082: slime_sheet_2_41
+    21300084: slime_sheet_2_42
+    21300086: slime_sheet_2_43
+    21300088: slime_sheet_2_44
+    21300090: slime_sheet_2_45
+    21300092: slime_sheet_2_46
+    21300094: slime_sheet_2_47
+    21300096: slime_sheet_2_48
+    21300098: slime_sheet_2_49
+    21300100: slime_sheet_2_50
+    21300102: slime_sheet_2_51
+    21300104: slime_sheet_2_52
+    21300106: slime_sheet_2_53
+    21300108: slime_sheet_2_54
+    21300110: slime_sheet_2_55
+    21300112: slime_sheet_2_56
+    21300114: slime_sheet_2_57
+    21300116: slime_sheet_2_58
+    21300118: slime_sheet_2_59
+    21300120: slime_sheet_2_60
+    21300122: slime_sheet_2_61
+    21300124: slime_sheet_2_62
+    21300126: slime_sheet_2_63
+    21300128: slime_sheet_2_64
+    21300130: slime_sheet_2_65
+    21300132: slime_sheet_2_66
+    21300134: slime_sheet_2_67
+    21300136: slime_sheet_2_68
+    21300138: slime_sheet_2_69
+    21300140: slime_sheet_2_70
+    21300142: slime_sheet_2_71
+    21300144: slime_sheet_2_72
+    21300146: slime_sheet_2_73
+    21300148: slime_sheet_2_74
+    21300150: slime_sheet_2_75
+    21300152: slime_sheet_2_76
+    21300154: slime_sheet_2_77
+    21300156: slime_sheet_2_78
+    21300158: slime_sheet_2_79
+    21300160: slime_sheet_2_80
+    21300162: slime_sheet_2_81
+    21300164: slime_sheet_2_82
+    21300166: slime_sheet_2_83
+    21300168: slime_sheet_2_84
+    21300170: slime_sheet_2_85
+    21300172: slime_sheet_2_86
+    21300174: slime_sheet_2_87
+    21300176: slime_sheet_2_88
+    21300178: slime_sheet_2_89
+    21300180: slime_sheet_2_90
+    21300182: slime_sheet_2_91
+    21300184: slime_sheet_2_92
+    21300186: slime_sheet_2_93
+    21300188: slime_sheet_2_94
+    21300190: slime_sheet_2_95
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slime_sheet_2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 342
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 343
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 344
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 342
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 343
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 344
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 342
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 343
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 344
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 342
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 343
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 344
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 294
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 295
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 296
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 294
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 295
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 296
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 294
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 295
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_20
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 296
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 294
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 295
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 296
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 246
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 247
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 248
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 246
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 247
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 248
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 246
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 247
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 248
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_33
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 246
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 247
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_35
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 248
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 198
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 199
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 200
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 198
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 199
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_41
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 200
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 198
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 199
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 200
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_45
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 198
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 199
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_47
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 200
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 150
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 151
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 152
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 150
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 151
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 152
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_54
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 150
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 151
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_56
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 152
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_57
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 150
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_58
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 151
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_59
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 152
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 102
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 103
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 104
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 102
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 103
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_65
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 104
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 102
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 103
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_68
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 104
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_69
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 102
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_70
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 103
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_71
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 104
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 54
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 55
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_74
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 56
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 54
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 55
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_77
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 56
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_78
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 54
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 55
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_80
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 56
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_81
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 54
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_82
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 55
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_83
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 56
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_85
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_86
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 8
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_87
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 6
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_88
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 7
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_89
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 8
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_90
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 6
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_91
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 7
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_92
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 8
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_93
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 6
+        width: 42
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_94
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 7
+        width: 40
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: slime_sheet_2_95
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 8
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
