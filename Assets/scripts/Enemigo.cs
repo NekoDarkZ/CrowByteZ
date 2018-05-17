@@ -65,6 +65,7 @@ public class Enemigo : MonoBehaviour {
         if (col.gameObject.tag == "Player")
         {
             Destroy(col.gameObject);
+            
         }
     }
 }

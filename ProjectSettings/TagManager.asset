@@ -8,6 +8,8 @@ TagManager:
   - espadaD
   - espadaI
   - Boss
+  - bloque
+  - texto
   layers:
   - Default
   - TransparentFX

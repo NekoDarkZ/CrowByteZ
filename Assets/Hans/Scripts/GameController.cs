@@ -27,8 +27,9 @@ public class GameController : MonoBehaviour {
 	}
     public void DiegoMuertoEnLaPruebaDeDiseño()
     {
-        gameOverText = GameObject.FindWithTag("texto");
         gameOverText.SetActive(true);
+        gameOverText = GameObject.FindWithTag("texto");
+        
         gameOver = true;
     }
 }
