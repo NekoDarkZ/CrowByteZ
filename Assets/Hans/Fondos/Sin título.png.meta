@@ -10,6 +10,9 @@ TextureImporter:
     21300006: "Sin t\xEDtulo_3"
     21300008: "Sin t\xEDtulo_4"
     21300010: "Sin t\xEDtulo_5"
+    21300012: "Sin t\xEDtulo_6"
+    21300014: "Sin t\xEDtulo_7"
+    21300016: "Sin t\xEDtulo_8"
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -95,7 +98,7 @@ TextureImporter:
         width: 621
         height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -109,7 +112,7 @@ TextureImporter:
         width: 117
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -123,7 +126,7 @@ TextureImporter:
         width: 42
         height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -137,7 +140,7 @@ TextureImporter:
         width: 76
         height: 119
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -151,7 +154,7 @@ TextureImporter:
         width: 44
         height: 98
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -165,7 +168,49 @@ TextureImporter:
         width: 161
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo_6"
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 188
+        width: 154
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo_7"
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 445
+        width: 35
+        height: 18
+      alignment: 9
+      pivot: {x: -1.1648612, y: -1.2265218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo_8"
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 162
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

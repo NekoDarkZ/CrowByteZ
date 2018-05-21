@@ -11,7 +11,7 @@ public class Boss : MonoBehaviour
     public float HealthB = 200;
 
     public Vector3 moveDirectionPush;
-    public Rigidbody2D EnemyRigidbody;
+  
     public Rigidbody2D ProtaRigidbody;
 
 
@@ -36,8 +36,7 @@ public class Boss : MonoBehaviour
             VidaB.Damage(25);
             HealthB = HealthB - 10;
            
-            moveDirectionPush = EnemyRigidbody.transform.position - col.transform.position;
-            EnemyRigidbody.AddForce(moveDirectionPush.normalized * 300f);
+          
 
             
             if (HealthB == 160)
@@ -62,8 +61,7 @@ public class Boss : MonoBehaviour
                 HealthB = HealthB - 10;
                 
 
-                moveDirectionPush = EnemyRigidbody.transform.position - col.transform.position;
-                EnemyRigidbody.AddForce(moveDirectionPush.normalized * 300f);
+               
 
                 if (HealthB == 160)
                 {
@@ -84,9 +82,7 @@ public class Boss : MonoBehaviour
 
                 VidaB.Damage(25);
                 HealthB = HealthB - 10;
-                moveDirectionPush = EnemyRigidbody.transform.position - col.transform.position;
-                EnemyRigidbody.AddForce(moveDirectionPush.normalized * 300f);
-
+      
                 if (HealthB == 160)
                 {
 

@@ -9,6 +9,9 @@ public class GcBoss : MonoBehaviour {
     [SerializeField] static GcBoss instance;
     [SerializeField] GameObject Sonido;
     [SerializeField] GameObject SonidoTheme;
+    [SerializeField] GameObject CamaraBoss;
+    [SerializeField] GameObject CamaraPrincipal;
+
 
 
     // Use this for initialization
@@ -31,6 +34,13 @@ public class GcBoss : MonoBehaviour {
     }
     public void MostrarBarra()
     {
+
+        CamaraPrincipal.SetActive(false);
+        CamaraPrincipal = GameObject.FindWithTag("MainCamera");
+        CamaraBoss.SetActive(true);
+        CamaraBoss = GameObject.FindWithTag("CamaraBoss");
+
+
         SonidoTheme.SetActive(false);
         SonidoTheme = GameObject.FindWithTag("SonidoTheme");
         

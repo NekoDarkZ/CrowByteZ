@@ -19,6 +19,8 @@ TagManager:
   - Sonido
   - Sonido Theme
   - SonidoTheme
+  - CamaraBoss
+  - SonidoMuerte
   layers:
   - Default
   - TransparentFX

@@ -7,6 +7,10 @@ using UnityEngine.UI;
 
 public class GameController : MonoBehaviour {
     [SerializeField] GameObject gameOverText;
+    [SerializeField] GameObject Theme;
+    [SerializeField] GameObject ThemeBoss;
+    [SerializeField] GameObject SonidoMuerte;
+    [SerializeField] GameObject BarravidaChao;
     [SerializeField] bool gameOver = false;
     [SerializeField] static GameController instance;
 
@@ -33,6 +37,15 @@ public class GameController : MonoBehaviour {
     }
     public void DiegoMuertoEnLaPruebaDeDiseño()
     {
+
+        BarravidaChao.SetActive(false);
+        BarravidaChao = GameObject.FindWithTag("BloqueBarra");
+        SonidoMuerte.SetActive(true);
+        SonidoMuerte = GameObject.FindWithTag("SonidoMuerte");
+        ThemeBoss.SetActive(false);
+        ThemeBoss = GameObject.FindWithTag("Sonido");
+        Theme.SetActive(false);
+        Theme = GameObject.FindWithTag("SonidoTheme");
         gameOverText.SetActive(true);
         gameOverText = GameObject.FindWithTag("texto");
         
