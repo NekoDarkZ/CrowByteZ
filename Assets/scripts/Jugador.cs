@@ -8,17 +8,65 @@ public class Jugador : MonoBehaviour {
     [SerializeField] float salto;
     [SerializeField] GameController GC;
     [SerializeField] bool muerto = false;
+    [SerializeField] BarraVida vida;
+    [SerializeField] GcBoss GCBOSS;
+    [SerializeField] bool Estar= false;
 
+    public float Health = 200;
 
 
     public void OnCollisionEnter2D(Collision2D collision)
     {
+        if (collision.gameObject.tag == "BloqueBarra")
+        {
+            Estar = true;
+            GCBOSS.MostrarBarra();
+        }
         if (collision.gameObject.tag == "Enemigo")
         {
 
-            muerto = true;
-            GC.DiegoMuertoEnLaPruebaDeDiseño();
+            
+            if (Health == 200)
+            
+                vida.Damage(50);
+            Health = Health - 10;
+            
+            if (Health == 180)
+            {
+                vida.Damage(50);
+                muerto = true;
+                GC.DiegoMuertoEnLaPruebaDeDiseño();
+                Destroy(gameObject);
+
+            }
         }
+        if (collision.gameObject.tag == "Vida")
+        {
+            if (Health == 190)
+            {
+                Health = Health + 10;
+            vida.Recuperar(1 / 50);
+            Destroy(collision.gameObject);
+            
+            }
+            if(Health == 200)
+            {
+            Destroy(collision.gameObject);
+            }
+       
+
+
+
+        }
+
+
+        
+
+
+
+
+
+
     }
     // Use this for initialization
     void Awake () {
@@ -88,11 +136,18 @@ public class Jugador : MonoBehaviour {
         //ataque basico
         if (Input.GetKeyUp(KeyCode.Z))
         {
+            
             GetComponent<Animator>().SetBool("atacar", false);
+            
+          
         }
         if (Input.GetKeyDown(KeyCode.Z))
         {
+            
             GetComponent<Animator>().SetBool("atacar", true);
+          
+
+
         }
 
         //ataque especial
@@ -112,4 +167,6 @@ public class Jugador : MonoBehaviour {
 
 
 }
+
+
    }

@@ -10,6 +10,15 @@ TagManager:
   - Boss
   - bloque
   - texto
+  - Enemigo
+  - Vida
+  - Rapidez
+  - aaa
+  - BloqueTexto
+  - BloqueBarra
+  - Sonido
+  - Sonido Theme
+  - SonidoTheme
   layers:
   - Default
   - TransparentFX

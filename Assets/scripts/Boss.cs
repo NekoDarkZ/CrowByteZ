@@ -2,43 +2,47 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
-public class Enemigo : MonoBehaviour {
+public class Boss : MonoBehaviour
+{
     [SerializeField] GameObject protagonist;
     [SerializeField] Camera Barravida;
-    [SerializeField] BarraVida vida;
-    public float Health =200;
-   
+    [SerializeField] BarraVidaJefe VidaB;
+
+    public float HealthB = 200;
+
     public Vector3 moveDirectionPush;
     public Rigidbody2D EnemyRigidbody;
     public Rigidbody2D ProtaRigidbody;
 
 
     // Use this for initialization
-    void Start() {
-        
-       
+    void Start()
+    {
+
+
     }
-	
-	// Update is called once per frame
-	void Update () {
-        
+
+    // Update is called once per frame
+    void Update()
+    {
+
     }
     public void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.tag == "espada")
         {
 
+
+            VidaB.Damage(25);
+            HealthB = HealthB - 10;
            
-               
-            Health = Health - 10;
             moveDirectionPush = EnemyRigidbody.transform.position - col.transform.position;
-            EnemyRigidbody.AddForce(moveDirectionPush.normalized *350f);
+            EnemyRigidbody.AddForce(moveDirectionPush.normalized * 300f);
 
-
-            if (Health == 180)
+            
+            if (HealthB == 160)
             {
-                
+
                 Destroy(gameObject);
 
             }
@@ -52,15 +56,18 @@ public class Enemigo : MonoBehaviour {
 
             if (protagonist.GetComponent<SpriteRenderer>().flipX == false)
             {
-                
-                    
-                Health = Health - 10;
-                moveDirectionPush = EnemyRigidbody.transform.position - col.transform.position;
-                EnemyRigidbody.AddForce(moveDirectionPush.normalized * 350f);
 
-                if (Health == 180)
+
+                VidaB.Damage(25);
+                HealthB = HealthB - 10;
+                
+
+                moveDirectionPush = EnemyRigidbody.transform.position - col.transform.position;
+                EnemyRigidbody.AddForce(moveDirectionPush.normalized * 300f);
+
+                if (HealthB == 160)
                 {
-                    
+
                     Destroy(gameObject);
 
                 }
@@ -74,15 +81,15 @@ public class Enemigo : MonoBehaviour {
         {
             if (protagonist.GetComponent<SpriteRenderer>().flipX == true)
             {
-                
-                    
-                Health = Health - 10;
-                moveDirectionPush = EnemyRigidbody.transform.position - col.transform.position;
-                EnemyRigidbody.AddForce(moveDirectionPush.normalized * 350f);
 
-                if (Health == 180)
+                VidaB.Damage(25);
+                HealthB = HealthB - 10;
+                moveDirectionPush = EnemyRigidbody.transform.position - col.transform.position;
+                EnemyRigidbody.AddForce(moveDirectionPush.normalized * 300f);
+
+                if (HealthB == 160)
                 {
-                    
+
                     Destroy(gameObject);
 
                 }
@@ -98,7 +105,7 @@ public class Enemigo : MonoBehaviour {
 
 
             moveDirectionPush = ProtaRigidbody.transform.position - gameObject.transform.position;
-            ProtaRigidbody.AddForce(moveDirectionPush.normalized * 300f);
+            ProtaRigidbody.AddForce(moveDirectionPush.normalized * 3000f);
 
 
 
@@ -109,19 +116,19 @@ public class Enemigo : MonoBehaviour {
 
     public void OnCollisionStay2D(Collision2D col)
     {
-        if(col.gameObject.tag == "espada")
+        if (col.gameObject.tag == "espada")
         {
-            
+
 
 
 
         }
         if (col.gameObject.tag == "espadaD")
         {
-    
+
             if (protagonist.GetComponent<SpriteRenderer>().flipX == false)
             {
-               
+
 
             }
         }
@@ -129,23 +136,25 @@ public class Enemigo : MonoBehaviour {
         {
             if (protagonist.GetComponent<SpriteRenderer>().flipX == true)
             {
-               
+
 
 
             }
         }
         if (col.gameObject.tag == "Player")
         {
-            
+
             {
 
 
-                
+
 
             }
 
-    }
+        }
 
     }
 }
+
+
 
