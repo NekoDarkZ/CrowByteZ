@@ -3,13 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Jugador : MonoBehaviour {
-    
+
     [SerializeField] float velocidad;
     [SerializeField] float salto;
-    [SerializeField] GameController GC;
+    [SerializeField] GC GC;
     [SerializeField] bool muerto = false;
     [SerializeField] BarraVida vida;
-    [SerializeField] GcBoss GCBOSS;
     [SerializeField] bool Estar= false;
 
     public float Health = 200;
@@ -20,7 +19,7 @@ public class Jugador : MonoBehaviour {
         if (collision.gameObject.tag == "BloqueBarra")
         {
             Estar = true;
-            GCBOSS.MostrarBarra();
+            GC.MostrarBarra();
         }
         if (collision.gameObject.tag == "Enemigo")
         {
