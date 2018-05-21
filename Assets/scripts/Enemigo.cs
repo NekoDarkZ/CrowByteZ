@@ -33,7 +33,7 @@ public class Enemigo : MonoBehaviour {
                
             Health = Health - 10;
             moveDirectionPush = EnemyRigidbody.transform.position - col.transform.position;
-            EnemyRigidbody.AddForce(moveDirectionPush.normalized *350f);
+            EnemyRigidbody.AddForce(moveDirectionPush.normalized *750f);
 
 
             if (Health == 180)
@@ -56,7 +56,7 @@ public class Enemigo : MonoBehaviour {
                     
                 Health = Health - 10;
                 moveDirectionPush = EnemyRigidbody.transform.position - col.transform.position;
-                EnemyRigidbody.AddForce(moveDirectionPush.normalized * 350f);
+                EnemyRigidbody.AddForce(moveDirectionPush.normalized * 750f);
 
                 if (Health == 180)
                 {
