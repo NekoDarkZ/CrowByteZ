@@ -17,7 +17,11 @@ public class GC : MonoBehaviour {
     [SerializeField] GameObject BarravidaChao;
     [SerializeField] GameObject Theme;
     [SerializeField] GameObject ThemeBoss;
+ 
 
+
+
+    
 
 
     // Use this for initialization
@@ -81,9 +85,12 @@ public class GC : MonoBehaviour {
         BarraVidaJefe = GameObject.FindWithTag("BloqueBarra");
 
         Estar = true;
-
-   
-
     }
+    
+
+  
 }
+
+
+
 
