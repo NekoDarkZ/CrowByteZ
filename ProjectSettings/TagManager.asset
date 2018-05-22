@@ -21,6 +21,7 @@ TagManager:
   - SonidoTheme
   - CamaraBoss
   - SonidoMuerte
+  - Belmont
   layers:
   - Default
   - TransparentFX
