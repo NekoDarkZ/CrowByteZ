@@ -11,7 +11,7 @@ public class GC : MonoBehaviour {
     [SerializeField] GameObject SonidoTheme;
     [SerializeField] GameObject CamaraBoss;
     [SerializeField] GameObject CamaraPrincipal;
-    [SerializeField] bool gameOver = false;
+    [SerializeField] public bool gameOver = false;
     [SerializeField] GameObject BarraVidaJefe;
     [SerializeField] GameObject SonidoMuerte;
     [SerializeField] GameObject BarravidaChao;

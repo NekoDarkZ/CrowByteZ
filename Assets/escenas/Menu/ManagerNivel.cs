@@ -20,7 +20,5 @@ public class ManagerNivel : MonoBehaviour {
 	}
 	public void Salir (){
 		Application.Quit ();
-
-		Debug.Log ("Salir");
 	}
 }
