@@ -21,16 +21,13 @@ public class EnumExample : MonoBehaviour
 		switch (currentState)
 		{
 			case states.Derecha:
-				Debug.Log("Camino a la derecha.");
                 transform.Translate(velocidad, 0, 0);
 
                 break;
 			case states.Izquierda:
-				Debug.Log("Camino a la izquierda.");
                 transform.Translate(-velocidad, 0, 0);
                 break;
 			default:
-				Debug.Log("Default.");
 				break;
 		}
 	}
