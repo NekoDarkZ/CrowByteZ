@@ -26,7 +26,7 @@ GameObject:
   - component: {fileID: 114146692027171132}
   - component: {fileID: 114815789485986026}
   m_Layer: 0
-  m_Name: Enemigo
+  m_Name: "Slime peque\xF1o"
   m_TagString: Enemigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 61571774302538890}
   - component: {fileID: 114459848716105992}
   m_Layer: 0
-  m_Name: Plataformas
+  m_Name: Plataformas movibles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

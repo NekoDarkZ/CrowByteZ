@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4533421316945504}
   - component: {fileID: 114105751453952848}
   m_Layer: 0
-  m_Name: barra vidita
+  m_Name: barra vidita Gameobject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

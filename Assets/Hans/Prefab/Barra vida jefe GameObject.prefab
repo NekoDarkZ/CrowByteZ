@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4330263999581434}
   - component: {fileID: 114252721323409974}
   m_Layer: 0
-  m_Name: Barra vida jefe
+  m_Name: Barra vida jefe GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
