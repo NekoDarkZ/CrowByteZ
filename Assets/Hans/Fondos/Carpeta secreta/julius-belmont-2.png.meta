@@ -1,0 +1,5308 @@
+fileFormatVersion: 2
+guid: 21b43e5bdec58754fbbbe9ba65145e82
+timeCreated: 1526938841
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: julius-belmont-2_0
+    21300002: julius-belmont-2_1
+    21300004: julius-belmont-2_2
+    21300006: julius-belmont-2_3
+    21300008: julius-belmont-2_4
+    21300010: julius-belmont-2_5
+    21300012: julius-belmont-2_6
+    21300014: julius-belmont-2_7
+    21300016: julius-belmont-2_8
+    21300018: julius-belmont-2_9
+    21300020: julius-belmont-2_10
+    21300022: julius-belmont-2_11
+    21300024: julius-belmont-2_12
+    21300026: julius-belmont-2_13
+    21300028: julius-belmont-2_14
+    21300030: julius-belmont-2_15
+    21300032: julius-belmont-2_16
+    21300034: julius-belmont-2_17
+    21300036: julius-belmont-2_18
+    21300038: julius-belmont-2_19
+    21300040: julius-belmont-2_20
+    21300042: julius-belmont-2_21
+    21300044: julius-belmont-2_22
+    21300046: julius-belmont-2_23
+    21300048: julius-belmont-2_24
+    21300050: julius-belmont-2_25
+    21300052: julius-belmont-2_26
+    21300054: julius-belmont-2_27
+    21300056: julius-belmont-2_28
+    21300058: julius-belmont-2_29
+    21300060: julius-belmont-2_30
+    21300062: julius-belmont-2_31
+    21300064: julius-belmont-2_32
+    21300066: julius-belmont-2_33
+    21300068: julius-belmont-2_34
+    21300070: julius-belmont-2_35
+    21300072: julius-belmont-2_36
+    21300074: julius-belmont-2_37
+    21300076: julius-belmont-2_38
+    21300078: julius-belmont-2_39
+    21300080: julius-belmont-2_40
+    21300082: julius-belmont-2_41
+    21300084: julius-belmont-2_42
+    21300086: julius-belmont-2_43
+    21300088: julius-belmont-2_44
+    21300090: julius-belmont-2_45
+    21300092: julius-belmont-2_46
+    21300094: julius-belmont-2_47
+    21300096: julius-belmont-2_48
+    21300098: julius-belmont-2_49
+    21300100: julius-belmont-2_50
+    21300102: julius-belmont-2_51
+    21300104: julius-belmont-2_52
+    21300106: julius-belmont-2_53
+    21300108: julius-belmont-2_54
+    21300110: julius-belmont-2_55
+    21300112: julius-belmont-2_56
+    21300114: julius-belmont-2_57
+    21300116: julius-belmont-2_58
+    21300118: julius-belmont-2_59
+    21300120: julius-belmont-2_60
+    21300122: julius-belmont-2_61
+    21300124: julius-belmont-2_62
+    21300126: julius-belmont-2_63
+    21300128: julius-belmont-2_64
+    21300130: julius-belmont-2_65
+    21300132: julius-belmont-2_66
+    21300134: julius-belmont-2_67
+    21300136: julius-belmont-2_68
+    21300138: julius-belmont-2_69
+    21300140: julius-belmont-2_70
+    21300142: julius-belmont-2_71
+    21300144: julius-belmont-2_72
+    21300146: julius-belmont-2_73
+    21300148: julius-belmont-2_74
+    21300150: julius-belmont-2_75
+    21300152: julius-belmont-2_76
+    21300154: julius-belmont-2_77
+    21300156: julius-belmont-2_78
+    21300158: julius-belmont-2_79
+    21300160: julius-belmont-2_80
+    21300162: julius-belmont-2_81
+    21300164: julius-belmont-2_82
+    21300166: julius-belmont-2_83
+    21300168: julius-belmont-2_84
+    21300170: julius-belmont-2_85
+    21300172: julius-belmont-2_86
+    21300174: julius-belmont-2_87
+    21300176: julius-belmont-2_88
+    21300178: julius-belmont-2_89
+    21300180: julius-belmont-2_90
+    21300182: julius-belmont-2_91
+    21300184: julius-belmont-2_92
+    21300186: julius-belmont-2_93
+    21300188: julius-belmont-2_94
+    21300190: julius-belmont-2_95
+    21300192: julius-belmont-2_96
+    21300194: julius-belmont-2_97
+    21300196: julius-belmont-2_98
+    21300198: julius-belmont-2_99
+    21300200: julius-belmont-2_100
+    21300202: julius-belmont-2_101
+    21300204: julius-belmont-2_102
+    21300206: julius-belmont-2_103
+    21300208: julius-belmont-2_104
+    21300210: julius-belmont-2_105
+    21300212: julius-belmont-2_106
+    21300214: julius-belmont-2_107
+    21300216: julius-belmont-2_108
+    21300218: julius-belmont-2_109
+    21300220: julius-belmont-2_110
+    21300222: julius-belmont-2_111
+    21300224: julius-belmont-2_112
+    21300226: julius-belmont-2_113
+    21300228: julius-belmont-2_114
+    21300230: julius-belmont-2_115
+    21300232: julius-belmont-2_116
+    21300234: julius-belmont-2_117
+    21300236: julius-belmont-2_118
+    21300238: julius-belmont-2_119
+    21300240: julius-belmont-2_120
+    21300242: julius-belmont-2_121
+    21300244: julius-belmont-2_122
+    21300246: julius-belmont-2_123
+    21300248: julius-belmont-2_124
+    21300250: julius-belmont-2_125
+    21300252: julius-belmont-2_126
+    21300254: julius-belmont-2_127
+    21300256: julius-belmont-2_128
+    21300258: julius-belmont-2_129
+    21300260: julius-belmont-2_130
+    21300262: julius-belmont-2_131
+    21300264: julius-belmont-2_132
+    21300266: julius-belmont-2_133
+    21300268: julius-belmont-2_134
+    21300270: julius-belmont-2_135
+    21300272: julius-belmont-2_136
+    21300274: julius-belmont-2_137
+    21300276: julius-belmont-2_138
+    21300278: julius-belmont-2_139
+    21300280: julius-belmont-2_140
+    21300282: julius-belmont-2_141
+    21300284: julius-belmont-2_142
+    21300286: julius-belmont-2_143
+    21300288: julius-belmont-2_144
+    21300290: julius-belmont-2_145
+    21300292: julius-belmont-2_146
+    21300294: julius-belmont-2_147
+    21300296: julius-belmont-2_148
+    21300298: julius-belmont-2_149
+    21300300: julius-belmont-2_150
+    21300302: julius-belmont-2_151
+    21300304: julius-belmont-2_152
+    21300306: julius-belmont-2_153
+    21300308: julius-belmont-2_154
+    21300310: julius-belmont-2_155
+    21300312: julius-belmont-2_156
+    21300314: julius-belmont-2_157
+    21300316: julius-belmont-2_158
+    21300318: julius-belmont-2_159
+    21300320: julius-belmont-2_160
+    21300322: julius-belmont-2_161
+    21300324: julius-belmont-2_162
+    21300326: julius-belmont-2_163
+    21300328: julius-belmont-2_164
+    21300330: julius-belmont-2_165
+    21300332: julius-belmont-2_166
+    21300334: julius-belmont-2_167
+    21300336: julius-belmont-2_168
+    21300338: julius-belmont-2_169
+    21300340: julius-belmont-2_170
+    21300342: julius-belmont-2_171
+    21300344: julius-belmont-2_172
+    21300346: julius-belmont-2_173
+    21300348: julius-belmont-2_174
+    21300350: julius-belmont-2_175
+    21300352: julius-belmont-2_176
+    21300354: julius-belmont-2_177
+    21300356: julius-belmont-2_178
+    21300358: julius-belmont-2_179
+    21300360: julius-belmont-2_180
+    21300362: julius-belmont-2_181
+    21300364: julius-belmont-2_182
+    21300366: julius-belmont-2_183
+    21300368: julius-belmont-2_184
+    21300370: julius-belmont-2_185
+    21300372: julius-belmont-2_186
+    21300374: julius-belmont-2_187
+    21300376: julius-belmont-2_188
+    21300378: julius-belmont-2_189
+    21300380: julius-belmont-2_190
+    21300382: julius-belmont-2_191
+    21300384: julius-belmont-2_192
+    21300386: julius-belmont-2_193
+    21300388: julius-belmont-2_194
+    21300390: julius-belmont-2_195
+    21300392: julius-belmont-2_196
+    21300394: julius-belmont-2_197
+    21300396: julius-belmont-2_198
+    21300398: julius-belmont-2_199
+    21300400: julius-belmont-2_200
+    21300402: julius-belmont-2_201
+    21300404: julius-belmont-2_202
+    21300406: julius-belmont-2_203
+    21300408: julius-belmont-2_204
+    21300410: julius-belmont-2_205
+    21300412: julius-belmont-2_206
+    21300414: julius-belmont-2_207
+    21300416: julius-belmont-2_208
+    21300418: julius-belmont-2_209
+    21300420: julius-belmont-2_210
+    21300422: julius-belmont-2_211
+    21300424: julius-belmont-2_212
+    21300426: julius-belmont-2_213
+    21300428: julius-belmont-2_214
+    21300430: julius-belmont-2_215
+    21300432: julius-belmont-2_216
+    21300434: julius-belmont-2_217
+    21300436: julius-belmont-2_218
+    21300438: julius-belmont-2_219
+    21300440: julius-belmont-2_220
+    21300442: julius-belmont-2_221
+    21300444: julius-belmont-2_222
+    21300446: julius-belmont-2_223
+    21300448: julius-belmont-2_224
+    21300450: julius-belmont-2_225
+    21300452: julius-belmont-2_226
+    21300454: julius-belmont-2_227
+    21300456: julius-belmont-2_228
+    21300458: julius-belmont-2_229
+    21300460: julius-belmont-2_230
+    21300462: julius-belmont-2_231
+    21300464: julius-belmont-2_232
+    21300466: julius-belmont-2_233
+    21300468: julius-belmont-2_234
+    21300470: julius-belmont-2_235
+    21300472: julius-belmont-2_236
+    21300474: julius-belmont-2_237
+    21300476: julius-belmont-2_238
+    21300478: julius-belmont-2_239
+    21300480: julius-belmont-2_240
+    21300482: julius-belmont-2_241
+    21300484: julius-belmont-2_242
+    21300486: julius-belmont-2_243
+    21300488: julius-belmont-2_244
+    21300490: julius-belmont-2_245
+    21300492: julius-belmont-2_246
+    21300494: julius-belmont-2_247
+    21300496: julius-belmont-2_248
+    21300498: julius-belmont-2_249
+    21300500: julius-belmont-2_250
+    21300502: julius-belmont-2_251
+    21300504: julius-belmont-2_252
+    21300506: julius-belmont-2_253
+    21300508: julius-belmont-2_254
+    21300510: julius-belmont-2_255
+    21300512: julius-belmont-2_256
+    21300514: julius-belmont-2_257
+    21300516: julius-belmont-2_258
+    21300518: julius-belmont-2_259
+    21300520: julius-belmont-2_260
+    21300522: julius-belmont-2_261
+    21300524: julius-belmont-2_262
+    21300526: julius-belmont-2_263
+    21300528: julius-belmont-2_264
+    21300530: julius-belmont-2_265
+    21300532: julius-belmont-2_266
+    21300534: julius-belmont-2_267
+    21300536: julius-belmont-2_268
+    21300538: julius-belmont-2_269
+    21300540: julius-belmont-2_270
+    21300542: julius-belmont-2_271
+    21300544: julius-belmont-2_272
+    21300546: julius-belmont-2_273
+    21300548: julius-belmont-2_274
+    21300550: julius-belmont-2_275
+    21300552: julius-belmont-2_276
+    21300554: julius-belmont-2_277
+    21300556: julius-belmont-2_278
+    21300558: julius-belmont-2_279
+    21300560: julius-belmont-2_280
+    21300562: julius-belmont-2_281
+    21300564: julius-belmont-2_282
+    21300566: julius-belmont-2_283
+    21300568: julius-belmont-2_284
+    21300570: julius-belmont-2_285
+    21300572: julius-belmont-2_286
+    21300574: julius-belmont-2_287
+    21300576: julius-belmont-2_288
+    21300578: julius-belmont-2_289
+    21300580: julius-belmont-2_290
+    21300582: julius-belmont-2_291
+    21300584: julius-belmont-2_292
+    21300586: julius-belmont-2_293
+    21300588: julius-belmont-2_294
+    21300590: julius-belmont-2_295
+    21300592: julius-belmont-2_296
+    21300594: julius-belmont-2_297
+    21300596: julius-belmont-2_298
+    21300598: julius-belmont-2_299
+    21300600: julius-belmont-2_300
+    21300602: julius-belmont-2_301
+    21300604: julius-belmont-2_302
+    21300606: julius-belmont-2_303
+    21300608: julius-belmont-2_304
+    21300610: julius-belmont-2_305
+    21300612: julius-belmont-2_306
+    21300614: julius-belmont-2_307
+    21300616: julius-belmont-2_308
+    21300618: julius-belmont-2_309
+    21300620: julius-belmont-2_310
+    21300622: julius-belmont-2_311
+    21300624: julius-belmont-2_312
+    21300626: julius-belmont-2_313
+    21300628: julius-belmont-2_314
+    21300630: julius-belmont-2_315
+    21300632: julius-belmont-2_316
+    21300634: julius-belmont-2_317
+    21300636: julius-belmont-2_318
+    21300638: julius-belmont-2_319
+    21300640: julius-belmont-2_320
+    21300642: julius-belmont-2_321
+    21300644: julius-belmont-2_322
+    21300646: julius-belmont-2_323
+    21300648: julius-belmont-2_324
+    21300650: julius-belmont-2_325
+    21300652: julius-belmont-2_326
+    21300654: julius-belmont-2_327
+    21300656: julius-belmont-2_328
+    21300658: julius-belmont-2_329
+    21300660: julius-belmont-2_330
+    21300662: julius-belmont-2_331
+    21300664: julius-belmont-2_332
+    21300666: julius-belmont-2_333
+    21300668: julius-belmont-2_334
+    21300670: julius-belmont-2_335
+    21300672: julius-belmont-2_336
+    21300674: julius-belmont-2_337
+    21300676: julius-belmont-2_338
+    21300678: julius-belmont-2_339
+    21300680: julius-belmont-2_340
+    21300682: julius-belmont-2_341
+    21300684: julius-belmont-2_342
+    21300686: julius-belmont-2_343
+    21300688: julius-belmont-2_344
+    21300690: julius-belmont-2_345
+    21300692: julius-belmont-2_346
+    21300694: julius-belmont-2_347
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: julius-belmont-2_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 597
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 597
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 597
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 597
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 597
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 597
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 597
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 597
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_8
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 597
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 597
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 597
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 595
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 558
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 558
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 558
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 558
+        width: 16
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 558
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 558
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 558
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 558
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 558
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_21
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 558
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 558
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 558
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 558
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_25
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 558
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 558
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_27
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 558
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_28
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 558
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_29
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 558
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 533
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 533
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 533
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 531
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_34
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 533
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 533
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 533
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_37
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 533
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 533
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_39
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 533
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_40
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 533
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_41
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 533
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_42
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 533
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_43
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 533
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_44
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 533
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_45
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 533
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_46
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 533
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_47
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 533
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_48
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 533
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 492
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 492
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_51
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 488
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 488
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 490
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 490
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_55
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 490
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_56
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 490
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_57
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 490
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_58
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 490
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_59
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 490
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 490
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_61
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 482
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_62
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 482
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 488
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_64
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 488
+        width: 38
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 457
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 457
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_67
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 455
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_68
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 457
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_69
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 457
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 457
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 457
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_72
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 457
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_73
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 457
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_74
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 416
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_75
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 416
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_76
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 416
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_77
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 416
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_78
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 416
+        width: 39
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_79
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 416
+        width: 67
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_80
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 416
+        width: 67
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_81
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 416
+        width: 54
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_82
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 416
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_83
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 416
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_84
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 383
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_85
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 383
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_86
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 383
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 383
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_88
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 383
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_89
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 383
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_90
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 383
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_91
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 383
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_92
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 383
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_93
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 383
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_94
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 383
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_95
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 383
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_96
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 383
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_97
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 383
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 383
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_99
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 383
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_100
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 383
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_101
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 383
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_102
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 383
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_103
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 383
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_104
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 383
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_105
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 383
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_106
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 383
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_107
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 373
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_108
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 373
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_109
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 373
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_110
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 373
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_111
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 373
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_112
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 373
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_113
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 371
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_114
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 373
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_115
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 373
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_116
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 373
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_117
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 373
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_118
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 373
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_119
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 373
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_120
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 373
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_121
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 373
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_122
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 333
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_123
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 368
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_124
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 368
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_125
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 368
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_126
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 368
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_127
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 368
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_128
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 368
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_129
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 368
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_130
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 368
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_131
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 368
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_132
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 368
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_133
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 368
+        width: 15
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_134
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 368
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_135
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 366
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_136
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 366
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_137
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 368
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_138
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 368
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_139
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 368
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_140
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 366
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_141
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 368
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_142
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 368
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_143
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 368
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_144
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 368
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_145
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 368
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_146
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 368
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_147
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 368
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_148
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 366
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_149
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 333
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_150
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 333
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_151
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 333
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_152
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 333
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_153
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 333
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_154
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 333
+        width: 35
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_155
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 333
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_156
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 333
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_157
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 333
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_158
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 353
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_159
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_160
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_161
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 353
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_162
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_163
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 353
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_164
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 353
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_165
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_166
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_167
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_168
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 353
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_169
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_170
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 351
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_171
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 353
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_172
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_173
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 353
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_174
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 351
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_175
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_176
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_177
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_178
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_179
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 353
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_180
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 353
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_181
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 353
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_182
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 353
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_183
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 338
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_184
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 338
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_185
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 338
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_186
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 338
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_187
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 338
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_188
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 336
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_189
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 338
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_190
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 338
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_191
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 338
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_192
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 338
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_193
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 338
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_194
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 338
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_195
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 308
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_196
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 308
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_197
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 308
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_198
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 308
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_199
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 308
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_200
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 308
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_201
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 308
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_202
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 308
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_203
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 308
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_204
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 308
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_205
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 308
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_206
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 308
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 308
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_208
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 308
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_209
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 308
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_210
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 308
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_211
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 308
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_212
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 306
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_213
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 308
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_214
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 308
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_215
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 308
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_216
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 308
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_217
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 308
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_218
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 308
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_219
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 298
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_220
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 298
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_221
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 296
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_222
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 298
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_223
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 298
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_224
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 298
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_225
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 298
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_226
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 298
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_227
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 296
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_228
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 298
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_229
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 298
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_230
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 298
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_231
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 298
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_232
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 298
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_233
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 298
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_234
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 298
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_235
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 298
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_236
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 298
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_237
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 298
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_238
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 293
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_239
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 293
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_240
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 293
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_241
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 293
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_242
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 293
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_243
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 293
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_244
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 293
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_245
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 293
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_246
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 293
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_247
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 293
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_248
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 293
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_249
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 293
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_250
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 293
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_251
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 293
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_252
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 291
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_253
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 293
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_254
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 291
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_255
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 293
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_256
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 293
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_257
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 293
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_258
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 293
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_259
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 293
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_260
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 293
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_261
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 293
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_262
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 252
+        width: 21
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_263
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 252
+        width: 30
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_264
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 252
+        width: 30
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_265
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 251
+        width: 47
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_266
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 251
+        width: 47
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_267
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 215
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_268
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 215
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_269
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 213
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_270
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 213
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_271
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 215
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_272
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 215
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_273
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 215
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_274
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 215
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_275
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 215
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_276
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 215
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_277
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 215
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_278
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 215
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_279
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 215
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_280
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 215
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_281
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 215
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_282
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 215
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_283
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 215
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_284
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 215
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_285
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 215
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_286
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 213
+        width: 31
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_287
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 215
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_288
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 215
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_289
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 213
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_290
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 215
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_291
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 215
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_292
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 215
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_293
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 215
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_294
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 215
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_295
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 215
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_296
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 215
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_297
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 215
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_298
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 215
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_299
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 215
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_300
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 202
+        width: 62
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_301
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_302
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 176
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_303
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 187
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_304
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 187
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_305
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 186
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_306
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 187
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_307
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 186
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_308
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 186
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_309
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 185
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_310
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 185
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_311
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 185
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_312
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 171
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_313
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 171
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_314
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 178
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_315
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_316
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_317
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 171
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_318
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 173
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_319
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 153
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_320
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 151
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_321
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 149
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_322
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 149
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_323
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 150
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_324
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 150
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_325
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 150
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_326
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 150
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_327
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 150
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_328
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_329
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 88
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_330
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 88
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_331
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 88
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_332
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 88
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_333
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 88
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_334
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_335
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 88
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_336
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 88
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_337
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 88
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_338
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 104
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_339
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 10
+        width: 129
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_340
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 73
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_341
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 73
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_342
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 73
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_343
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 73
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_344
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 73
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_345
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 10
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_346
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: julius-belmont-2_347
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
