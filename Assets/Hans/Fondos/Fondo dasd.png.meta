@@ -1,9 +1,10 @@
 fileFormatVersion: 2
-guid: c8af0af92b465e84bb4fe9eea3bf9eab
-timeCreated: 1526506622
+guid: 7b0e333547305264eabd90ad5fdff58e
+timeCreated: 1529325644
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Fondo dasd_0
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -79,7 +80,21 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Fondo dasd_0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 689
+        height: 718
+      alignment: 9
+      pivot: {x: 0.47099432, y: 0.48917913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 

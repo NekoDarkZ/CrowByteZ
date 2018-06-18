@@ -5,6 +5,7 @@ licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: Vortice_0
+    21300002: Vortice_1
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -89,6 +90,20 @@ TextureImporter:
         y: 378
         width: 50
         height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vortice_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 71
+        width: 767
+        height: 228
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
