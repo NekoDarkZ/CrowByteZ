@@ -21,6 +21,11 @@ public class Jugador : MonoBehaviour {
             Estar = true;
             GC.MostrarBarra();
         }
+        ///revisa si toca el piso
+        if (collision.gameObject.tag == "Plataforma")
+        {
+            GetComponent<Animator>().SetBool("Aire", false);
+        }
         if (collision.gameObject.tag == "Enemigo")
         {
 
@@ -67,6 +72,14 @@ public class Jugador : MonoBehaviour {
 
 
     }
+    public void OnCollisionExit2D(Collision2D collision)
+    {
+        ///revisa si dejo de tocar el piso
+        if (collision.gameObject.tag == "Plataforma")
+        {
+            GetComponent<Animator>().SetBool("Aire", true);
+        }
+    }
     // Use this for initialization
     void Awake () {
 		
@@ -76,7 +89,7 @@ public class Jugador : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-
+        
         ////Codigo de movimiento////
         if (Input.GetKey(KeyCode.RightArrow))
         {
@@ -133,20 +146,22 @@ public class Jugador : MonoBehaviour {
         ////codigo ofensivo////
 
         //ataque basico
-        if (Input.GetKeyUp(KeyCode.Z))
+        if (Input.GetKey(KeyCode.Z))
         {
-            
             GetComponent<Animator>().SetBool("atacar", false);
             
           
         }
+        if (Input.GetKeyUp(KeyCode.Z))
+        {
+            GetComponent<Animator>().SetBool("atacar", false);
+
+
+        }
         if (Input.GetKeyDown(KeyCode.Z))
         {
-            
             GetComponent<Animator>().SetBool("atacar", true);
           
-
-
         }
 
         //ataque especial
