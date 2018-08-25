@@ -2,15 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Jugador : MonoBehaviour {
+public class Jugador : MonoBehaviour
+{
 
     [SerializeField] float velocidad;
     [SerializeField] float salto;
+    [SerializeField] int maxsaltos;
     [SerializeField] GC GC;
     [SerializeField] bool muerto = false;
     [SerializeField] BarraVida vida;
-    [SerializeField] bool Estar= false;
-
+    [SerializeField] bool Estar = false;
+    private int cantsaltos = 0;
     public float Health = 200;
 
 
@@ -25,16 +27,17 @@ public class Jugador : MonoBehaviour {
         if (collision.gameObject.tag == "Plataforma")
         {
             GetComponent<Animator>().SetBool("Aire", false);
+            cantsaltos = 0;
         }
         if (collision.gameObject.tag == "Enemigo")
         {
 
-            
+
             if (Health == 200)
-            
+
                 vida.Damage(50);
             Health = Health - 10;
-            
+
             if (Health == 180)
             {
                 vida.Damage(50);
@@ -49,22 +52,22 @@ public class Jugador : MonoBehaviour {
             if (Health == 190)
             {
                 Health = Health + 10;
-            vida.Recuperar(1 / 50);
-            Destroy(collision.gameObject);
-            
+                vida.Recuperar(1 / 50);
+                Destroy(collision.gameObject);
+
             }
-            if(Health == 200)
+            if (Health == 200)
             {
-            Destroy(collision.gameObject);
+                Destroy(collision.gameObject);
             }
-       
+
 
 
 
         }
 
 
-        
+
 
 
 
@@ -81,15 +84,16 @@ public class Jugador : MonoBehaviour {
         }
     }
     // Use this for initialization
-    void Awake () {
-		
-	}
+    void Awake()
+    {
+
+    }
 
 
     // Update is called once per frame
     void Update()
     {
-        
+
         ////Codigo de movimiento////
         if (Input.GetKey(KeyCode.RightArrow))
         {
@@ -125,22 +129,15 @@ public class Jugador : MonoBehaviour {
         {
             GetComponent<Animator>().SetBool("caminar", false);
         }
-        if (Input.GetKey(KeyCode.UpArrow))
+        if (Input.GetKeyDown(KeyCode.UpArrow))
         {
 
-            //mueve el personaje a la izquierdadada
-
-            GetComponent<Animator>().SetBool("saltar", true);
-            transform.Translate(0, salto, 0);
-
-        }
-        if (!Input.GetKey(KeyCode.UpArrow))
-        {
-
-            //mueve el personaje a la izquierdadada
-
-            GetComponent<Animator>().SetBool("saltar", false);
-            transform.Translate(0, 0, 0);
+            //salta
+            if (maxsaltos >= cantsaltos)
+            {
+                GetComponent<Rigidbody2D>().AddForce(new Vector2(0, salto));
+                cantsaltos = cantsaltos + 1;
+            }
 
         }
         ////codigo ofensivo////
@@ -149,8 +146,8 @@ public class Jugador : MonoBehaviour {
         if (Input.GetKey(KeyCode.Z))
         {
             GetComponent<Animator>().SetBool("atacar", false);
-            
-          
+
+
         }
         if (Input.GetKeyUp(KeyCode.Z))
         {
@@ -161,7 +158,7 @@ public class Jugador : MonoBehaviour {
         if (Input.GetKeyDown(KeyCode.Z))
         {
             GetComponent<Animator>().SetBool("atacar", true);
-          
+
         }
 
         //ataque especial
@@ -180,7 +177,7 @@ public class Jugador : MonoBehaviour {
 
 
 
+    }
+  
+
 }
-
-
-   }
