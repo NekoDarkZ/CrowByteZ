@@ -7,6 +7,8 @@ TextureImporter:
     21300000: Vortice_0
     21300002: Vortice_1
     21300004: Vortice_2
+    21300006: Vortice_3
+    21300008: Vortice_4
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -115,10 +117,38 @@ TextureImporter:
       name: Vortice_2
       rect:
         serializedVersion: 2
-        x: 104
+        x: 105
         y: 71
-        width: 771
-        height: 52
+        width: 770
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vortice_3
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 73
+        width: 469
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vortice_4
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 399
+        width: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
