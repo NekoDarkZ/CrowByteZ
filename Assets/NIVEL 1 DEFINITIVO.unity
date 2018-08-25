@@ -126,7 +126,7 @@ GameObject:
   - component: {fileID: 5046839}
   m_Layer: 0
   m_Name: Quad (78)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -223,7 +223,7 @@ GameObject:
   - component: {fileID: 12510232}
   m_Layer: 0
   m_Name: Quad (118)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -239,7 +239,7 @@ Transform:
   m_LocalScale: {x: 0.06853846, y: 0.4969812, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 136
+  m_RootOrder: 131
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &12510232
 BoxCollider2D:
@@ -367,7 +367,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &25004203
 GameObject:
@@ -382,7 +382,7 @@ GameObject:
   - component: {fileID: 25004205}
   m_Layer: 0
   m_Name: Quad (71)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -479,7 +479,7 @@ GameObject:
   - component: {fileID: 26124473}
   m_Layer: 0
   m_Name: Quad (82)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -576,7 +576,7 @@ GameObject:
   - component: {fileID: 33741601}
   m_Layer: 0
   m_Name: Quad (62)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -726,12 +726,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 36325908}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -63.84, y: 14.447, z: 0}
-  m_LocalScale: {x: 1.5691974, y: 1.3509796, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -8.87479, y: 3.713733, z: 0}
+  m_LocalScale: {x: 0.2949862, y: 0.34324265, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 35
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &36461776
 GameObject:
@@ -746,7 +746,7 @@ GameObject:
   - component: {fileID: 36461778}
   m_Layer: 0
   m_Name: Quad (138)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -762,7 +762,7 @@ Transform:
   m_LocalScale: {x: 0.09408291, y: 0.50901634, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 156
+  m_RootOrder: 151
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &36461778
 BoxCollider2D:
@@ -867,7 +867,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
       propertyPath: m_RootOrder
-      value: 165
+      value: 164
       objectReference: {fileID: 0}
     - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
         type: 2}
@@ -955,7 +955,7 @@ GameObject:
   - component: {fileID: 48871505}
   m_Layer: 0
   m_Name: Quad (22)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1052,7 +1052,7 @@ GameObject:
   - component: {fileID: 53717016}
   m_Layer: 0
   m_Name: Quad (119)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1068,7 +1068,7 @@ Transform:
   m_LocalScale: {x: 0.05194607, y: 0.5770254, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 137
+  m_RootOrder: 132
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &53717016
 BoxCollider2D:
@@ -1149,7 +1149,7 @@ GameObject:
   - component: {fileID: 58413313}
   m_Layer: 0
   m_Name: Quad (41)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1233,109 +1233,6 @@ Transform:
   m_Father: {fileID: 2110886246}
   m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &61422937
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 2110886246}
-    m_Modifications:
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 1.639
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 23.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: -0.027199887
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_RootOrder
-      value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: protagonist
-      value: 
-      objectReference: {fileID: 1531950800}
-    - target: {fileID: 1180517802637604, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_Name
-      value: slime_sheet_2_0 (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 212102155340326150, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Color.r
-      value: 0.75
-      objectReference: {fileID: 0}
-    - target: {fileID: 212102155340326150, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.33639705
-      objectReference: {fileID: 0}
-    - target: {fileID: 212102155340326150, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Color.b
-      value: 0.36206895
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 16.989979
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 0.33571297
-      objectReference: {fileID: 0}
-    - target: {fileID: 114675110043988448, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114675110043988448, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: velocidad
-      value: 0.05
-      objectReference: {fileID: 0}
-    - target: {fileID: 1180517802637604, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_TagString
-      value: Enemigo
-      objectReference: {fileID: 0}
-    - target: {fileID: 50751223093407886, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Constraints
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: Barravida
-      value: 
-      objectReference: {fileID: 357061307}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: vida
-      value: 
-      objectReference: {fileID: 585598762}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &70745778
 GameObject:
   m_ObjectHideFlags: 0
@@ -1349,7 +1246,7 @@ GameObject:
   - component: {fileID: 70745782}
   m_Layer: 0
   m_Name: Cawswtel_1 (3)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1434,7 +1331,7 @@ Transform:
   m_LocalScale: {x: 0.27579334, y: 11.830138, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 89
+  m_RootOrder: 87
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &70745782
 MonoBehaviour:
@@ -1516,7 +1413,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 71672231}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.3725954, y: 0.2352033, z: 0}
+  m_LocalPosition: {x: -1.3725954, y: 0.2352033, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1535,7 +1432,7 @@ GameObject:
   - component: {fileID: 73991208}
   m_Layer: 0
   m_Name: Quad (7)
-  m_TagString: Boss
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1632,7 +1529,7 @@ GameObject:
   - component: {fileID: 93849879}
   m_Layer: 0
   m_Name: Quad (107)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1648,7 +1545,7 @@ Transform:
   m_LocalScale: {x: 0.21748696, y: 0.551193, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 125
+  m_RootOrder: 120
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &93849879
 BoxCollider2D:
@@ -1753,7 +1650,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
       propertyPath: m_RootOrder
-      value: 169
+      value: 168
       objectReference: {fileID: 0}
     - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
         type: 2}
@@ -1851,7 +1748,7 @@ GameObject:
   - component: {fileID: 99625369}
   m_Layer: 0
   m_Name: Quad (32)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1948,7 +1845,7 @@ GameObject:
   - component: {fileID: 115559495}
   m_Layer: 0
   m_Name: Quad (3)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2045,7 +1942,7 @@ GameObject:
   - component: {fileID: 117548230}
   m_Layer: 0
   m_Name: Quad (47)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2221,7 +2118,7 @@ GameObject:
   - component: {fileID: 123274862}
   m_Layer: 0
   m_Name: Quad (96)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2237,7 +2134,7 @@ Transform:
   m_LocalScale: {x: 0.023085207, y: 2.2317066, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 114
+  m_RootOrder: 109
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &123274862
 BoxCollider2D:
@@ -2329,11 +2226,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 126029002}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.69, y: 33.55, z: 0}
+  m_LocalPosition: {x: -3.69, y: 33.55, z: -2}
   m_LocalScale: {x: 1.5188537, y: 0.2263781, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &126029004
 BoxCollider2D:
@@ -2463,7 +2360,7 @@ GameObject:
   - component: {fileID: 150198842}
   m_Layer: 0
   m_Name: Quad (51)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2547,11 +2444,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 150198840}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &156085547 stripped
-Transform:
-  m_PrefabParentObject: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675,
-    type: 2}
-  m_PrefabInternal: {fileID: 1380729386}
 --- !u!1 &157890318
 GameObject:
   m_ObjectHideFlags: 0
@@ -2565,7 +2457,7 @@ GameObject:
   - component: {fileID: 157890320}
   m_Layer: 0
   m_Name: Quad (56)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2662,7 +2554,7 @@ GameObject:
   - component: {fileID: 169145510}
   m_Layer: 0
   m_Name: Quad (36)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2820,12 +2712,12 @@ RectTransform:
   m_Children:
   - {fileID: 1788306994}
   m_Father: {fileID: 1247419452}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.054, y: 0}
   m_AnchorMax: {x: 0.27251422, y: 0.91713506}
-  m_AnchoredPosition: {x: 1, y: 141.5}
-  m_SizeDelta: {x: -4.5, y: -272.8}
+  m_AnchoredPosition: {x: 32.6, y: 129.7}
+  m_SizeDelta: {x: 58.7, y: -249.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &182096773
 GameObject:
@@ -2839,7 +2731,7 @@ GameObject:
   - component: {fileID: 182096775}
   m_Layer: 0
   m_Name: Cawswtel_1 (15)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2855,7 +2747,7 @@ Transform:
   m_LocalScale: {x: 0.27586603, y: 8.862427, z: 0.91015}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 171
+  m_RootOrder: 155
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &182096775
 BoxCollider2D:
@@ -2939,7 +2831,7 @@ GameObject:
   - component: {fileID: 196263207}
   m_Layer: 0
   m_Name: Quad (24)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3036,7 +2928,7 @@ GameObject:
   - component: {fileID: 198767744}
   m_Layer: 0
   m_Name: Quad (35)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3133,7 +3025,7 @@ GameObject:
   - component: {fileID: 204857758}
   m_Layer: 0
   m_Name: Quad (83)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3230,7 +3122,7 @@ GameObject:
   - component: {fileID: 207078710}
   m_Layer: 0
   m_Name: Quad (135)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3246,7 +3138,7 @@ Transform:
   m_LocalScale: {x: 0.061562054, y: 1.2607278, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 153
+  m_RootOrder: 148
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &207078710
 BoxCollider2D:
@@ -3327,7 +3219,7 @@ GameObject:
   - component: {fileID: 211523363}
   m_Layer: 0
   m_Name: Quad (138)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3405,11 +3297,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 211523362}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -27.388, y: 16.515, z: 0.027199887}
-  m_LocalScale: {x: 1.0804454, y: 0.18880004, z: 0.53024}
+  m_LocalPosition: {x: -2.022347, y: 4.2391486, z: 0.027199887}
+  m_LocalScale: {x: 0.20310795, y: 0.04796832, z: 0.53024}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 49
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &215901448
 GameObject:
@@ -3424,7 +3316,7 @@ GameObject:
   - component: {fileID: 215901449}
   m_Layer: 0
   m_Name: Quad (140)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3502,11 +3394,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 215901448}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -27.42, y: 18.37, z: 0.027199887}
-  m_LocalScale: {x: 1.0804454, y: 0.18880004, z: 0.53024}
+  m_LocalPosition: {x: -2.0283625, y: 4.710448, z: 0.027199887}
+  m_LocalScale: {x: 0.20310795, y: 0.04796832, z: 0.53024}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 51
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &224604478
 GameObject:
@@ -4883,7 +4775,7 @@ GameObject:
   - component: {fileID: 228687621}
   m_Layer: 0
   m_Name: Quad (126)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4899,7 +4791,7 @@ Transform:
   m_LocalScale: {x: 0.061562054, y: 1.2607278, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 144
+  m_RootOrder: 139
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &228687621
 BoxCollider2D:
@@ -5035,10 +4927,9 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 232909459}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -26.4, y: -12.55, z: 0}
+  m_LocalPosition: {x: -26.4, y: -12.55, z: -2}
   m_LocalScale: {x: 3.3709214, y: 1.4573735, z: 1}
   m_Children:
-  - {fileID: 1783297789}
   - {fileID: 934953484}
   - {fileID: 622947340}
   - {fileID: 810080454}
@@ -5051,8 +4942,11 @@ Transform:
   - {fileID: 804779886}
   - {fileID: 1274304726}
   - {fileID: 1198445848}
+  - {fileID: 1544061794}
+  - {fileID: 578476318}
+  - {fileID: 980025644}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &232909462
 BoxCollider2D:
@@ -5092,7 +4986,7 @@ GameObject:
   - component: {fileID: 239982084}
   m_Layer: 0
   m_Name: Quad (1)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5176,119 +5070,6 @@ Transform:
   m_Father: {fileID: 2110886246}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &243747284
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: -31.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 41.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_RootOrder
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: protagonist
-      value: 
-      objectReference: {fileID: 1531950800}
-    - target: {fileID: 1180517802637604, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_Name
-      value: slime_sheet_2_0 (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 212102155340326150, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Color.r
-      value: 0.34300205
-      objectReference: {fileID: 0}
-    - target: {fileID: 212102155340326150, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.5588235
-      objectReference: {fileID: 0}
-    - target: {fileID: 212102155340326150, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 3.931306
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 4.2148123
-      objectReference: {fileID: 0}
-    - target: {fileID: 114675110043988448, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114675110043988448, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: velocidad
-      value: 0.02
-      objectReference: {fileID: 0}
-    - target: {fileID: 1180517802637604, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_TagString
-      value: Enemigo
-      objectReference: {fileID: 0}
-    - target: {fileID: 50751223093407886, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Constraints
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: Barravida
-      value: 
-      objectReference: {fileID: 357061307}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: vida
-      value: 
-      objectReference: {fileID: 585598762}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: ProtaRigidbody
-      value: 
-      objectReference: {fileID: 1531950802}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: EnemyRigidbody
-      value: 
-      objectReference: {fileID: 1243054692}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &248067290
 GameObject:
   m_ObjectHideFlags: 0
@@ -5301,7 +5082,7 @@ GameObject:
   - component: {fileID: 248067291}
   m_Layer: 0
   m_Name: "Sin t\xEDtulo_8 (6)"
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5381,12 +5162,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 248067290}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.97, y: 7.16, z: 0}
-  m_LocalScale: {x: 1.7631998, y: 1.7631998, z: 1.7631998}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7557836, y: 1.862329, z: 0}
+  m_LocalScale: {x: 0.3314558, y: 0.4479752, z: 1.7631998}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 63
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &260761633
 GameObject:
@@ -5401,7 +5182,7 @@ GameObject:
   - component: {fileID: 260761634}
   m_Layer: 0
   m_Name: Quad (44)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5509,11 +5290,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 267365509}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.103, y: 22.365, z: 0}
+  m_LocalPosition: {x: -7.103, y: 22.365, z: -2}
   m_LocalScale: {x: -0.014132388, y: 0.9521099, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &267365511
 BoxCollider2D:
@@ -5597,7 +5378,7 @@ GameObject:
   - component: {fileID: 271393077}
   m_Layer: 0
   m_Name: Quad (34)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5694,7 +5475,7 @@ GameObject:
   - component: {fileID: 299260081}
   m_Layer: 0
   m_Name: Quad (136)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5710,7 +5491,7 @@ Transform:
   m_LocalScale: {x: 0.061562054, y: 1.2607278, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 154
+  m_RootOrder: 149
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &299260081
 BoxCollider2D:
@@ -5778,6 +5559,138 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 299260079}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &305491132
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 305491133}
+  - component: {fileID: 305491136}
+  - component: {fileID: 305491135}
+  - component: {fileID: 305491134}
+  m_Layer: 5
+  m_Name: Button (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &305491133
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 305491132}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1329994828}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -2.55, y: -30.05}
+  m_SizeDelta: {x: 186, y: 60.1}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &305491134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 305491132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 305491135}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 834810798}
+        m_MethodName: CargarNivel
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Menu
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1547396501}
+        m_MethodName: Reanudar
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &305491135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 305491132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: b9cf27d7826b83e42a1a9ccb16c7a041, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &305491136
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 305491132}
 --- !u!1001 &305906252
 Prefab:
   m_ObjectHideFlags: 0
@@ -5815,7 +5728,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
       propertyPath: m_RootOrder
-      value: 162
+      value: 161
       objectReference: {fileID: 0}
     - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
         type: 2}
@@ -5937,7 +5850,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
       propertyPath: m_RootOrder
-      value: 164
+      value: 163
       objectReference: {fileID: 0}
     - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
         type: 2}
@@ -6035,7 +5948,7 @@ GameObject:
   - component: {fileID: 328893173}
   m_Layer: 0
   m_Name: Quad (129)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6051,7 +5964,7 @@ Transform:
   m_LocalScale: {x: 0.050913177, y: 0.43072125, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 147
+  m_RootOrder: 142
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &328893173
 BoxCollider2D:
@@ -6132,7 +6045,7 @@ GameObject:
   - component: {fileID: 342170789}
   m_Layer: 0
   m_Name: Quad (87)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6148,7 +6061,7 @@ Transform:
   m_LocalScale: {x: 0.055008803, y: 16.493702, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 105
+  m_RootOrder: 100
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &342170789
 BoxCollider2D:
@@ -6244,7 +6157,7 @@ Transform:
   m_LocalScale: {x: 4.2605247, y: 17.287752, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 96
+  m_RootOrder: 94
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &342506875
 BoxCollider2D:
@@ -6328,7 +6241,7 @@ GameObject:
   - component: {fileID: 349826020}
   m_Layer: 0
   m_Name: Quad (74)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6533,7 +6446,7 @@ GameObject:
   - component: {fileID: 366258988}
   m_Layer: 0
   m_Name: Quad (111)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6549,7 +6462,7 @@ Transform:
   m_LocalScale: {x: 0.1495938, y: 0.52379256, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 129
+  m_RootOrder: 124
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &366258988
 BoxCollider2D:
@@ -6630,7 +6543,7 @@ GameObject:
   - component: {fileID: 375565419}
   m_Layer: 0
   m_Name: Quad (63)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6751,7 +6664,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
       propertyPath: m_RootOrder
-      value: 168
+      value: 167
       objectReference: {fileID: 0}
     - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
         type: 2}
@@ -6919,7 +6832,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 409764813}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -16.63, y: -0.17, z: 0}
+  m_LocalPosition: {x: -16.63, y: -0.17, z: -1}
   m_LocalScale: {x: 5.319562, y: 3.9359317, z: 1}
   m_Children:
   - {fileID: 484067358}
@@ -6927,8 +6840,39 @@ Transform:
   - {fileID: 786393483}
   - {fileID: 1042760378}
   - {fileID: 1257118689}
+  - {fileID: 1019118368}
+  - {fileID: 830837541}
+  - {fileID: 36325910}
+  - {fileID: 1633913758}
+  - {fileID: 414541097}
+  - {fileID: 1615884118}
+  - {fileID: 723236796}
+  - {fileID: 783562662}
+  - {fileID: 1774332918}
+  - {fileID: 1013906902}
+  - {fileID: 739588069}
+  - {fileID: 1576228945}
+  - {fileID: 502861848}
+  - {fileID: 1301003268}
+  - {fileID: 851995637}
+  - {fileID: 1304535398}
+  - {fileID: 211523366}
+  - {fileID: 1230425416}
+  - {fileID: 215901452}
+  - {fileID: 582776045}
+  - {fileID: 1645540235}
+  - {fileID: 648838199}
+  - {fileID: 1312311698}
+  - {fileID: 1365192779}
+  - {fileID: 557317765}
+  - {fileID: 1911743129}
+  - {fileID: 1680775498}
+  - {fileID: 639832518}
+  - {fileID: 810062819}
+  - {fileID: 1640620353}
+  - {fileID: 248067293}
   m_Father: {fileID: 0}
-  m_RootOrder: 31
+  m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &414541094
 GameObject:
@@ -6942,7 +6886,7 @@ GameObject:
   - component: {fileID: 414541095}
   m_Layer: 0
   m_Name: Cawswtel_1 (3)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7023,11 +6967,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 414541094}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -65.35, y: 12.61, z: 0}
-  m_LocalScale: {x: 2.0855694, y: 2.0602472, z: 0.7324739}
+  m_LocalPosition: {x: -9.1586485, y: 3.2470074, z: 0}
+  m_LocalScale: {x: 0.39205658, y: 0.52344584, z: 0.7324739}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 37
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &440005039
 GameObject:
@@ -7042,7 +6986,7 @@ GameObject:
   - component: {fileID: 440005041}
   m_Layer: 0
   m_Name: Quad (114)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7058,7 +7002,7 @@ Transform:
   m_LocalScale: {x: 0.14903305, y: 0.53916734, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 132
+  m_RootOrder: 127
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &440005041
 BoxCollider2D:
@@ -7139,7 +7083,7 @@ GameObject:
   - component: {fileID: 445803252}
   m_Layer: 0
   m_Name: Quad (109)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7155,7 +7099,7 @@ Transform:
   m_LocalScale: {x: 0.09408291, y: 0.50901634, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 127
+  m_RootOrder: 122
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &445803252
 BoxCollider2D:
@@ -7236,7 +7180,7 @@ GameObject:
   - component: {fileID: 456378176}
   m_Layer: 0
   m_Name: Quad (23)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7401,7 +7345,7 @@ GameObject:
   - component: {fileID: 461918730}
   m_Layer: 0
   m_Name: Quad (89)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7417,7 +7361,7 @@ Transform:
   m_LocalScale: {x: 0.41681853, y: 1.9121169, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 107
+  m_RootOrder: 102
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &461918730
 BoxCollider2D:
@@ -7497,7 +7441,7 @@ GameObject:
   - component: {fileID: 467740603}
   m_Layer: 0
   m_Name: Cawswtel_1 (13)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7513,7 +7457,7 @@ Transform:
   m_LocalScale: {x: 0.14518434, y: 4.664173, z: 0.479}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 172
+  m_RootOrder: 156
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &467740603
 BoxCollider2D:
@@ -7597,7 +7541,7 @@ GameObject:
   - component: {fileID: 473413587}
   m_Layer: 0
   m_Name: Quad (25)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7693,7 +7637,7 @@ GameObject:
   - component: {fileID: 484067356}
   m_Layer: 0
   m_Name: Cawswtel_1 (2)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7793,7 +7737,7 @@ GameObject:
   - component: {fileID: 486758279}
   m_Layer: 0
   m_Name: Quad (38)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7890,7 +7834,7 @@ GameObject:
   - component: {fileID: 489636265}
   m_Layer: 0
   m_Name: Quad (5)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7974,11 +7918,6 @@ Transform:
   m_Father: {fileID: 2110886246}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!50 &493105671 stripped
-Rigidbody2D:
-  m_PrefabParentObject: {fileID: 50751223093407886, guid: 57295dbe969d3e44687188cbe89e9675,
-    type: 2}
-  m_PrefabInternal: {fileID: 1120580299}
 --- !u!1 &496821412
 GameObject:
   m_ObjectHideFlags: 0
@@ -7992,7 +7931,7 @@ GameObject:
   - component: {fileID: 496821416}
   m_Layer: 0
   m_Name: Cawswtel_1 (8)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8077,7 +8016,7 @@ Transform:
   m_LocalScale: {x: 0.27579334, y: 11.830138, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 94
+  m_RootOrder: 92
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &496821416
 MonoBehaviour:
@@ -8184,18 +8123,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 502861845}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.986, y: -2.238, z: 0}
-  m_LocalScale: {x: 3.0944872, y: 1.1282338, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7587914, y: -0.5254156, z: 0}
+  m_LocalScale: {x: 0.5817184, y: 0.28664973, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 45
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!50 &521114538 stripped
-Rigidbody2D:
-  m_PrefabParentObject: {fileID: 50751223093407886, guid: 57295dbe969d3e44687188cbe89e9675,
-    type: 2}
-  m_PrefabInternal: {fileID: 1380729386}
 --- !u!4 &540724058 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675,
@@ -8219,7 +8153,7 @@ GameObject:
   - component: {fileID: 545494434}
   m_Layer: 0
   m_Name: Quad (72)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8316,7 +8250,7 @@ GameObject:
   - component: {fileID: 550823765}
   m_Layer: 0
   m_Name: Quad (15)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8412,7 +8346,7 @@ GameObject:
   - component: {fileID: 557317763}
   m_Layer: 0
   m_Name: "Sin t\xEDtulo_8 (1)"
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8492,12 +8426,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 557317762}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.9, y: 11.06, z: 0}
-  m_LocalScale: {x: 1.7631998, y: 1.7631998, z: 1.7631998}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7426246, y: 2.8532, z: 0}
+  m_LocalScale: {x: 0.3314558, y: 0.4479752, z: 1.7631998}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 57
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &578476315
 GameObject:
@@ -8592,11 +8526,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 578476315}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -42.832, y: 26.281, z: 0}
-  m_LocalScale: {x: 0.8154459, y: 1.1046774, z: 1}
+  m_LocalPosition: {x: -4.874632, y: 26.64451, z: -2}
+  m_LocalScale: {x: 0.24190593, y: 0.757992, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 27
+  m_Father: {fileID: 232909461}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &582776041
 GameObject:
@@ -8611,7 +8545,7 @@ GameObject:
   - component: {fileID: 582776042}
   m_Layer: 0
   m_Name: Quad (141)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8689,11 +8623,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 582776041}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -24.33, y: 19.35, z: 0.027199887}
-  m_LocalScale: {x: 1.0804454, y: 0.18880004, z: 0.53024}
+  m_LocalPosition: {x: -1.4474876, y: 4.959436, z: 0.027199887}
+  m_LocalScale: {x: 0.20310795, y: 0.04796832, z: 0.53024}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 52
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &584102003
 GameObject:
@@ -8708,7 +8642,7 @@ GameObject:
   - component: {fileID: 584102004}
   m_Layer: 0
   m_Name: Quad (48)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8832,7 +8766,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 21
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &588538448
 GameObject:
@@ -8847,7 +8781,7 @@ GameObject:
   - component: {fileID: 588538449}
   m_Layer: 0
   m_Name: Quad (42)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8944,7 +8878,7 @@ GameObject:
   - component: {fileID: 591464185}
   m_Layer: 0
   m_Name: Quad (21)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9041,7 +8975,7 @@ GameObject:
   - component: {fileID: 616086158}
   m_Layer: 0
   m_Name: Quad (12)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9148,11 +9082,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 622947339}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 12.7, y: 16.42, z: 0}
+  m_LocalPosition: {x: 12.7, y: 16.42, z: -2}
   m_LocalScale: {x: 0.29856393, y: 1.3021506, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &622947341
 SpriteRenderer:
@@ -9265,12 +9199,17 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 632053504}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.9661218, y: -52.668037, z: -0.027199887}
-  m_LocalScale: {x: 0.15918536, y: 6.1573124, z: 1}
+  m_LocalPosition: {x: -42.68, y: 12.360001, z: 0}
+  m_LocalScale: {x: 2.7937958, y: 2.4888532, z: 1}
   m_Children: []
-  m_Father: {fileID: 2110886246}
-  m_RootOrder: 88
+  m_Father: {fileID: 0}
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &639832518 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4594506082598692, guid: a29326945227e844e8ced31c61fc496b,
+    type: 2}
+  m_PrefabInternal: {fileID: 1417191216}
 --- !u!1 &648838195
 GameObject:
   m_ObjectHideFlags: 0
@@ -9284,7 +9223,7 @@ GameObject:
   - component: {fileID: 648838196}
   m_Layer: 0
   m_Name: Quad (143)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9362,11 +9301,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 648838195}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -27.35, y: 20.3, z: 0.027199887}
-  m_LocalScale: {x: 1.0804454, y: 0.18880004, z: 0.53024}
+  m_LocalPosition: {x: -2.0152037, y: 5.2008014, z: 0.027199887}
+  m_LocalScale: {x: 0.20310795, y: 0.04796832, z: 0.53024}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 54
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &649890377
 GameObject:
@@ -9381,7 +9320,7 @@ GameObject:
   - component: {fileID: 649890378}
   m_Layer: 0
   m_Name: Quad (10)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9483,7 +9422,7 @@ GameObject:
   - component: {fileID: 661471491}
   m_Layer: 0
   m_Name: Quad (92)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9499,7 +9438,7 @@ Transform:
   m_LocalScale: {x: 0.021613183, y: 10.934994, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 110
+  m_RootOrder: 105
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &661471491
 BoxCollider2D:
@@ -9567,6 +9506,127 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 661471489}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &668388891
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 668388892}
+  - component: {fileID: 668388895}
+  - component: {fileID: 668388894}
+  - component: {fileID: 668388893}
+  m_Layer: 5
+  m_Name: Button
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &668388892
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 668388891}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1329994828}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0.0000076294, y: 38.399994}
+  m_SizeDelta: {x: 291.75, y: 76.8}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &668388893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 668388891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 668388894}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1547396501}
+        m_MethodName: Reanudar
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &668388894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 668388891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: f0f8853feacbf244281921db47e682d6, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &668388895
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 668388891}
 --- !u!1 &669801542
 GameObject:
   m_ObjectHideFlags: 0
@@ -9580,7 +9640,7 @@ GameObject:
   - component: {fileID: 669801544}
   m_Layer: 0
   m_Name: Quad (67)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9677,7 +9737,7 @@ GameObject:
   - component: {fileID: 681867599}
   m_Layer: 0
   m_Name: Quad (14)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9798,7 +9858,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
       propertyPath: m_RootOrder
-      value: 166
+      value: 165
       objectReference: {fileID: 0}
     - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
         type: 2}
@@ -9896,7 +9956,7 @@ GameObject:
   - component: {fileID: 696633350}
   m_Layer: 0
   m_Name: Quad (98)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9912,7 +9972,7 @@ Transform:
   m_LocalScale: {x: 0.02898026, y: 2.8716438, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 116
+  m_RootOrder: 111
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &696633350
 BoxCollider2D:
@@ -9997,7 +10057,7 @@ GameObject:
   - component: {fileID: 723236794}
   m_Layer: 0
   m_Name: Cawswtel_1 (5)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10078,11 +10138,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 723236793}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -66.48, y: 8.03, z: 0}
-  m_LocalScale: {x: 2.2392876, y: 2.212099, z: 0.7864614}
+  m_LocalPosition: {x: -9.371073, y: 2.0833695, z: 0}
+  m_LocalScale: {x: 0.42095336, y: 0.5620268, z: 0.7864614}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 39
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &731510988
 GameObject:
@@ -10108,11 +10168,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 731510988}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -10.784, y: -4.874, z: 0}
+  m_LocalPosition: {x: -10.784, y: -4.874, z: -2}
   m_LocalScale: {x: 0.79558307, y: 1.9467523, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &731510990
 BoxCollider2D:
@@ -10196,7 +10256,7 @@ GameObject:
   - component: {fileID: 733403881}
   m_Layer: 0
   m_Name: Quad (57)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10346,12 +10406,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 739588067}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.883, y: 20.585, z: 0}
-  m_LocalScale: {x: 3.1136978, y: 1.2935708, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7394289, y: 5.273211, z: 0}
+  m_LocalScale: {x: 0.5853297, y: 0.3286568, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 43
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &743560602
 GameObject:
@@ -10366,7 +10426,7 @@ GameObject:
   - component: {fileID: 743560604}
   m_Layer: 0
   m_Name: Quad (60)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10450,6 +10510,58 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 743560602}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &746608133
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 746608135}
+  - component: {fileID: 746608134}
+  m_Layer: 0
+  m_Name: GC
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &746608134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 746608133}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa35f98d19d544e4282638ab3bbde678, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameOverText: {fileID: 1584150360}
+  Estar: 0
+  Sonido: {fileID: 907193616}
+  SonidoTheme: {fileID: 1740799998}
+  CamaraBoss: {fileID: 1246760895}
+  CamaraPrincipal: {fileID: 357061304}
+  gameOver: 0
+  BarraVidaJefe: {fileID: 791885120}
+  SonidoMuerte: {fileID: 1451394197}
+  BarravidaChao: {fileID: 791885120}
+  Theme: {fileID: 1740799998}
+  ThemeBoss: {fileID: 907193616}
+--- !u!4 &746608135
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 746608133}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -21.255527, y: 17.42964, z: -0.14648438}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &751054427
 GameObject:
   m_ObjectHideFlags: 0
@@ -10463,7 +10575,7 @@ GameObject:
   - component: {fileID: 751054431}
   m_Layer: 0
   m_Name: Cawswtel_1 (4)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10548,7 +10660,7 @@ Transform:
   m_LocalScale: {x: 0.25926477, y: 11.022771, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 90
+  m_RootOrder: 88
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &751054431
 MonoBehaviour:
@@ -10600,7 +10712,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
       propertyPath: m_RootOrder
-      value: 161
+      value: 160
       objectReference: {fileID: 0}
     - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
         type: 2}
@@ -10698,7 +10810,7 @@ GameObject:
   - component: {fileID: 776890313}
   m_Layer: 0
   m_Name: Quad (85)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10714,7 +10826,7 @@ Transform:
   m_LocalScale: {x: 0.03246331, y: 0.99534655, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 103
+  m_RootOrder: 98
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &776890313
 BoxCollider2D:
@@ -10794,7 +10906,7 @@ GameObject:
   - component: {fileID: 783562660}
   m_Layer: 0
   m_Name: Cawswtel_1 (6)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10875,11 +10987,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 783562659}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -65.37, y: 14.62, z: 0}
-  m_LocalScale: {x: 2.0855694, y: 2.0602472, z: 0.7324739}
+  m_LocalPosition: {x: -9.162409, y: 3.757687, z: 0}
+  m_LocalScale: {x: 0.39205658, y: 0.52344584, z: 0.7324739}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 40
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &784051941
 GameObject:
@@ -10894,7 +11006,7 @@ GameObject:
   - component: {fileID: 784051942}
   m_Layer: 0
   m_Name: Quad (30)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10990,7 +11102,7 @@ GameObject:
   - component: {fileID: 786393481}
   m_Layer: 0
   m_Name: Cawswtel_1 (4)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11151,12 +11263,12 @@ RectTransform:
   m_Children:
   - {fileID: 1449277587}
   m_Father: {fileID: 1247419452}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.054, y: 0}
   m_AnchorMax: {x: 0.27251422, y: 0.91713506}
-  m_AnchoredPosition: {x: 586.9, y: 145.8}
-  m_SizeDelta: {x: -4.5, y: -272.8}
+  m_AnchoredPosition: {x: 199, y: 129.7}
+  m_SizeDelta: {x: 80.8, y: -226.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &802366877
 GameObject:
@@ -11171,7 +11283,7 @@ GameObject:
   - component: {fileID: 802366879}
   m_Layer: 0
   m_Name: Quad (59)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11279,11 +11391,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 804779885}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.766, y: 19.547, z: 0}
+  m_LocalPosition: {x: -0.766, y: 19.547, z: -2}
   m_LocalScale: {x: 0.20365699, y: 1.7587664, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &804779887
 BoxCollider2D:
@@ -11366,7 +11478,7 @@ GameObject:
   - component: {fileID: 810062817}
   m_Layer: 0
   m_Name: "Sin t\xEDtulo_8 (4)"
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11446,12 +11558,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 810062816}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.93, y: 2.96, z: 0}
-  m_LocalScale: {x: 1.7631998, y: 1.7631998, z: 1.7631998}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7482643, y: 0.7952374, z: 0}
+  m_LocalScale: {x: 0.3314558, y: 0.4479752, z: 1.7631998}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 61
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &810080453
 GameObject:
@@ -11476,11 +11588,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 810080453}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.45, y: 31.04, z: 0}
+  m_LocalPosition: {x: 15.45, y: 31.04, z: -2}
   m_LocalScale: {x: 0.5421598, y: 0.67425144, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &810080455
 SpriteRenderer:
@@ -11539,7 +11651,7 @@ GameObject:
   - component: {fileID: 813493361}
   m_Layer: 0
   m_Name: Quad (8)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11660,7 +11772,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
       propertyPath: m_RootOrder
-      value: 163
+      value: 162
       objectReference: {fileID: 0}
     - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
         type: 2}
@@ -11757,7 +11869,7 @@ GameObject:
   - component: {fileID: 830837539}
   m_Layer: 0
   m_Name: "Sin t\xEDtulo_0"
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11837,12 +11949,52 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 830837538}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -57.472, y: 15.429, z: 0}
-  m_LocalScale: {x: 2.1590157, y: 3.317446, z: 2.1640565}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -7.6777, y: 3.9632294, z: 0}
+  m_LocalScale: {x: 0.4058634, y: 0.84286165, z: 2.1640565}
+  m_Children: []
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &834810797
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 834810799}
+  - component: {fileID: 834810798}
+  m_Layer: 0
+  m_Name: MgNivl
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &834810798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 834810797}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39a83fc7a0912664eb4279931ae2435f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &834810799
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 834810797}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -21.255527, y: 17.42964, z: -0.14648438}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 34
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &834944992
 GameObject:
@@ -11857,7 +12009,7 @@ GameObject:
   - component: {fileID: 834944994}
   m_Layer: 0
   m_Name: Quad (61)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11954,7 +12106,7 @@ GameObject:
   - component: {fileID: 837442665}
   m_Layer: 0
   m_Name: Quad (90)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11970,7 +12122,7 @@ Transform:
   m_LocalScale: {x: 0.07356488, y: 1.7509995, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 108
+  m_RootOrder: 103
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &837442665
 BoxCollider2D:
@@ -12051,7 +12203,7 @@ GameObject:
   - component: {fileID: 851995634}
   m_Layer: 0
   m_Name: Quad (137)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12129,11 +12281,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 851995633}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -24.447083, y: 15.565813, z: 0.027199887}
-  m_LocalScale: {x: 1.1160899, y: 0.27791, z: 0.53024}
+  m_LocalPosition: {x: -1.4694974, y: 3.9979894, z: 0.027199887}
+  m_LocalScale: {x: 0.2098086, y: 0.07060844, z: 0.53024}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 47
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &852873490 stripped
 Transform:
@@ -12153,7 +12305,7 @@ GameObject:
   - component: {fileID: 864626086}
   m_Layer: 0
   m_Name: Quad (117)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12169,7 +12321,7 @@ Transform:
   m_LocalScale: {x: 0.025213873, y: 0.61704934, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 135
+  m_RootOrder: 130
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &864626086
 BoxCollider2D:
@@ -12250,7 +12402,7 @@ GameObject:
   - component: {fileID: 865909829}
   m_Layer: 0
   m_Name: Quad (76)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12460,7 +12612,7 @@ GameObject:
   - component: {fileID: 891644258}
   m_Layer: 0
   m_Name: Quad (108)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12476,7 +12628,7 @@ Transform:
   m_LocalScale: {x: 0.09408307, y: 0.5090077, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 126
+  m_RootOrder: 121
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &891644258
 BoxCollider2D:
@@ -12666,7 +12818,7 @@ GameObject:
   - component: {fileID: 915210025}
   m_Layer: 0
   m_Name: Quad (37)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12763,7 +12915,7 @@ GameObject:
   - component: {fileID: 927978288}
   m_Layer: 0
   m_Name: Quad (52)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12859,7 +13011,7 @@ GameObject:
   - component: {fileID: 933756589}
   m_Layer: 0
   m_Name: "Sin t\xEDtulo_2"
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12919,7 +13071,7 @@ Transform:
   m_LocalScale: {x: 0.21042985, y: 49.704502, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 85
+  m_RootOrder: 84
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &933756589
 BoxCollider2D:
@@ -12970,11 +13122,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 934953483}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 11.4725, y: 2.196, z: 0}
+  m_LocalPosition: {x: 11.4725, y: 2.196, z: -2}
   m_LocalScale: {x: 1.0731003, y: 0.7029489, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &934953485
 SpriteRenderer:
@@ -13058,7 +13210,7 @@ GameObject:
   - component: {fileID: 940308108}
   m_Layer: 0
   m_Name: Quad (19)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13155,7 +13307,7 @@ GameObject:
   - component: {fileID: 941220964}
   m_Layer: 0
   m_Name: Quad (13)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13332,11 +13484,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 980025641}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.966, y: 29.197, z: 0}
-  m_LocalScale: {x: 2.7910786, y: 0.86621505, z: 1}
+  m_LocalPosition: {x: 8.118255, y: 28.64537, z: -2}
+  m_LocalScale: {x: 0.82798684, y: 0.59436727, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 28
+  m_Father: {fileID: 232909461}
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &981587533
 GameObject:
@@ -13469,7 +13621,7 @@ Transform:
   m_LocalScale: {x: 0.013777673, y: 14.469012, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 95
+  m_RootOrder: 93
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &990620837
 GameObject:
@@ -13484,7 +13636,7 @@ GameObject:
   - component: {fileID: 990620839}
   m_Layer: 0
   m_Name: Quad (94)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13500,7 +13652,7 @@ Transform:
   m_LocalScale: {x: 0.031930644, y: 12.662841, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 112
+  m_RootOrder: 107
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &990620839
 BoxCollider2D:
@@ -13581,7 +13733,7 @@ GameObject:
   - component: {fileID: 991811933}
   m_Layer: 0
   m_Name: Quad (58)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13678,7 +13830,7 @@ GameObject:
   - component: {fileID: 994962037}
   m_Layer: 0
   m_Name: Quad (103)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13694,7 +13846,7 @@ Transform:
   m_LocalScale: {x: 0.02995171, y: 0.97310567, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 121
+  m_RootOrder: 116
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &994962037
 BoxCollider2D:
@@ -13775,7 +13927,7 @@ GameObject:
   - component: {fileID: 999097263}
   m_Layer: 0
   m_Name: Quad (97)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13791,7 +13943,7 @@ Transform:
   m_LocalScale: {x: 0.051088568, y: 2.8716505, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 115
+  m_RootOrder: 110
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &999097263
 BoxCollider2D:
@@ -13872,7 +14024,7 @@ GameObject:
   - component: {fileID: 1011451586}
   m_Layer: 0
   m_Name: Quad (95)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13888,7 +14040,7 @@ Transform:
   m_LocalScale: {x: 0.6494811, y: 1.0798137, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 113
+  m_RootOrder: 108
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1011451586
 BoxCollider2D:
@@ -14022,12 +14174,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1013906900}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.906, y: 17.774, z: 0}
-  m_LocalScale: {x: 2.3828347, y: 1.1848817, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7437527, y: 4.5590224, z: -4}
+  m_LocalScale: {x: 0.4479381, y: 0.30104223, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 42
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1019118366
 GameObject:
@@ -14095,12 +14247,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1019118366}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -31.67, y: 15.18, z: 0}
-  m_LocalScale: {x: 2.2678642, y: 2.2678642, z: 2.2678642}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.8273005, y: 3.899966, z: -4}
+  m_LocalScale: {x: 0.42632535, y: 0.576195, z: 2.2678642}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 33
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1030806396
 GameObject:
@@ -14115,7 +14267,7 @@ GameObject:
   - component: {fileID: 1030806398}
   m_Layer: 0
   m_Name: Quad (99)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14131,7 +14283,7 @@ Transform:
   m_LocalScale: {x: 0.02995191, y: 0.9730993, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 117
+  m_RootOrder: 112
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1030806398
 BoxCollider2D:
@@ -14212,7 +14364,7 @@ GameObject:
   - component: {fileID: 1032111164}
   m_Layer: 0
   m_Name: Quad (20)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14308,7 +14460,7 @@ GameObject:
   - component: {fileID: 1042760376}
   m_Layer: 0
   m_Name: Cawswtel_1 (5)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14408,7 +14560,7 @@ GameObject:
   - component: {fileID: 1047760092}
   m_Layer: 0
   m_Name: Quad (81)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14505,7 +14657,7 @@ GameObject:
   - component: {fileID: 1048953478}
   m_Layer: 0
   m_Name: Quad (27)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14602,7 +14754,7 @@ GameObject:
   - component: {fileID: 1059066997}
   m_Layer: 0
   m_Name: Quad (55)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14773,7 +14925,7 @@ GameObject:
   - component: {fileID: 1079110139}
   m_Layer: 0
   m_Name: Quad (132)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14789,7 +14941,7 @@ Transform:
   m_LocalScale: {x: 0.050913405, y: 0.43071568, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 150
+  m_RootOrder: 145
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1079110139
 BoxCollider2D:
@@ -14870,7 +15022,7 @@ GameObject:
   - component: {fileID: 1085637816}
   m_Layer: 0
   m_Name: Quad (110)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14886,7 +15038,7 @@ Transform:
   m_LocalScale: {x: 0.18270314, y: 0.47054, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 128
+  m_RootOrder: 123
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1085637816
 BoxCollider2D:
@@ -14967,7 +15119,7 @@ GameObject:
   - component: {fileID: 1096252539}
   m_Layer: 0
   m_Name: Quad (43)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15064,7 +15216,7 @@ GameObject:
   - component: {fileID: 1098698880}
   m_Layer: 0
   m_Name: Quad (137)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15080,7 +15232,7 @@ Transform:
   m_LocalScale: {x: 0.06359301, y: 0.68754506, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 155
+  m_RootOrder: 150
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1098698880
 BoxCollider2D:
@@ -15215,11 +15367,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1099481161}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0031907633, y: -65.45592, z: -0.027199887}
-  m_LocalScale: {x: 0.09638889, y: 5.542072, z: 1}
+  m_LocalPosition: {x: -59.58, y: 7.191, z: -1}
+  m_LocalScale: {x: 1.6916813, y: 2.2401662, z: 1}
   m_Children: []
-  m_Father: {fileID: 2110886246}
-  m_RootOrder: 84
+  m_Father: {fileID: 0}
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1100875417
 GameObject:
@@ -15234,7 +15386,7 @@ GameObject:
   - component: {fileID: 1100875419}
   m_Layer: 0
   m_Name: Quad (127)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15250,7 +15402,7 @@ Transform:
   m_LocalScale: {x: 0.05424224, y: 0.8253463, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 145
+  m_RootOrder: 140
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1100875419
 BoxCollider2D:
@@ -15355,7 +15507,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
       propertyPath: m_RootOrder
-      value: 170
+      value: 169
       objectReference: {fileID: 0}
     - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
         type: 2}
@@ -15430,104 +15582,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
   m_IsPrefabParent: 0
---- !u!1001 &1120580299
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: -35.8
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 41.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_RootOrder
-      value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: protagonist
-      value: 
-      objectReference: {fileID: 1531950800}
-    - target: {fileID: 1180517802637604, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_Name
-      value: slime_sheet_2_0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 8.619805
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 9.827588
-      objectReference: {fileID: 0}
-    - target: {fileID: 114675110043988448, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114675110043988448, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: velocidad
-      value: 0.07
-      objectReference: {fileID: 0}
-    - target: {fileID: 1180517802637604, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_TagString
-      value: Enemigo
-      objectReference: {fileID: 0}
-    - target: {fileID: 50751223093407886, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Constraints
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: Barravida
-      value: 
-      objectReference: {fileID: 357061307}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: vida
-      value: 
-      objectReference: {fileID: 585598762}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: ProtaRigidbody
-      value: 
-      objectReference: {fileID: 1531950802}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: EnemyRigidbody
-      value: 
-      objectReference: {fileID: 493105671}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &1144586707
 GameObject:
   m_ObjectHideFlags: 0
@@ -15541,7 +15595,7 @@ GameObject:
   - component: {fileID: 1144586709}
   m_Layer: 0
   m_Name: Quad (134)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15557,7 +15611,7 @@ Transform:
   m_LocalScale: {x: 0.050913405, y: 0.43071568, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 152
+  m_RootOrder: 147
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1144586709
 BoxCollider2D:
@@ -15638,7 +15692,7 @@ GameObject:
   - component: {fileID: 1152323942}
   m_Layer: 0
   m_Name: Quad (39)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15825,11 +15879,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1176855665}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -15.34, y: 19.84, z: 0}
+  m_LocalPosition: {x: -15.34, y: 19.84, z: -2}
   m_LocalScale: {x: 0.30432153, y: 1.7945852, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1176855667
 BoxCollider2D:
@@ -15923,7 +15977,7 @@ GameObject:
   - component: {fileID: 1178941474}
   m_Layer: 0
   m_Name: Quad (6)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16044,7 +16098,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
       propertyPath: m_RootOrder
-      value: 160
+      value: 159
       objectReference: {fileID: 0}
     - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
         type: 2}
@@ -16153,11 +16207,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1198445847}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -10.577, y: 18.767, z: 0}
+  m_LocalPosition: {x: -10.577, y: 18.767, z: -2}
   m_LocalScale: {x: -0.20858094, y: 0.095843926, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1198445849
 BoxCollider2D:
@@ -16241,7 +16295,7 @@ GameObject:
   - component: {fileID: 1200418433}
   m_Layer: 0
   m_Name: Quad (16)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16451,7 +16505,7 @@ GameObject:
   - component: {fileID: 1229408196}
   m_Layer: 0
   m_Name: Quad (33)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16548,7 +16602,7 @@ GameObject:
   - component: {fileID: 1230425413}
   m_Layer: 0
   m_Name: Quad (139)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16626,17 +16680,12 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1230425412}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -24.43, y: 17.44, z: 0.027199887}
-  m_LocalScale: {x: 1.0804454, y: 0.18880004, z: 0.53024}
+  m_LocalPosition: {x: -1.4662863, y: 4.474163, z: 0.027199887}
+  m_LocalScale: {x: 0.20310795, y: 0.04796832, z: 0.53024}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 50
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!50 &1243054692 stripped
-Rigidbody2D:
-  m_PrefabParentObject: {fileID: 50751223093407886, guid: 57295dbe969d3e44687188cbe89e9675,
-    type: 2}
-  m_PrefabInternal: {fileID: 243747284}
 --- !u!1 &1246760895
 GameObject:
   m_ObjectHideFlags: 0
@@ -16743,7 +16792,7 @@ Transform:
   m_LocalScale: {x: 0.6626295, y: 1.2205031, z: 0.34647328}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 30
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.164}
 --- !u!1 &1247419448
 GameObject:
@@ -16830,11 +16879,12 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
+  - {fileID: 1329994828}
   - {fileID: 1584150361}
   - {fileID: 170959634}
   - {fileID: 791885122}
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -16854,7 +16904,7 @@ GameObject:
   - component: {fileID: 1248276754}
   m_Layer: 0
   m_Name: Quad (4)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16951,7 +17001,7 @@ GameObject:
   - component: {fileID: 1253682540}
   m_Layer: 0
   m_Name: Quad (68)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17048,7 +17098,7 @@ GameObject:
   - component: {fileID: 1256974688}
   m_Layer: 0
   m_Name: Quad (125)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17064,7 +17114,7 @@ Transform:
   m_LocalScale: {x: 0.061562054, y: 1.2607278, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 143
+  m_RootOrder: 138
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1256974688
 BoxCollider2D:
@@ -17144,7 +17194,7 @@ GameObject:
   - component: {fileID: 1257118687}
   m_Layer: 0
   m_Name: Cawswtel_1 (6)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17244,7 +17294,7 @@ GameObject:
   - component: {fileID: 1272692262}
   m_Layer: 0
   m_Name: Quad (124)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17260,7 +17310,7 @@ Transform:
   m_LocalScale: {x: 0.061562054, y: 1.2607278, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 142
+  m_RootOrder: 137
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1272692262
 BoxCollider2D:
@@ -17352,11 +17402,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1274304725}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.2023, y: 18.701, z: 0}
+  m_LocalPosition: {x: -9.2023, y: 18.701, z: -2}
   m_LocalScale: {x: -0.20858136, y: 0.08092606, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1274304727
 BoxCollider2D:
@@ -17440,7 +17490,7 @@ GameObject:
   - component: {fileID: 1295683383}
   m_Layer: 0
   m_Name: Quad (26)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17695,12 +17745,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1301003265}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -28.448, y: 3.613, z: 0}
-  m_LocalScale: {x: 3.4410298, y: 12.704742, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.2216115, y: 0.96114475, z: -4}
+  m_LocalScale: {x: 0.64686334, y: 3.227887, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 46
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1301447856
 GameObject:
@@ -17714,7 +17764,7 @@ GameObject:
   - component: {fileID: 1301447858}
   m_Layer: 0
   m_Name: Cawswtel_1 (9)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17730,7 +17780,7 @@ Transform:
   m_LocalScale: {x: 0.27586588, y: 8.862435, z: 0.9101518}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 98
+  m_RootOrder: 95
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1301447858
 BoxCollider2D:
@@ -17867,12 +17917,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1304535396}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.906, y: 17.774, z: 0}
-  m_LocalScale: {x: 2.3828347, y: 1.1848817, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7437527, y: 4.5590224, z: 0}
+  m_LocalScale: {x: 0.4479381, y: 0.30104223, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 48
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1312311696
 GameObject:
@@ -17885,7 +17935,7 @@ GameObject:
   - component: {fileID: 1312311697}
   m_Layer: 0
   m_Name: "Sin t\xEDtulo_7"
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17940,12 +17990,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1312311696}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -26.072441, y: 14.224261, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7750411, y: 3.657142, z: 0}
+  m_LocalScale: {x: 0.18798539, y: 0.25406945, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 55
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1327273745
 GameObject:
@@ -17960,7 +18010,7 @@ GameObject:
   - component: {fileID: 1327273746}
   m_Layer: 0
   m_Name: Quad (40)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18044,6 +18094,77 @@ Transform:
   m_Father: {fileID: 2110886246}
   m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1329994827
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1329994828}
+  - component: {fileID: 1329994830}
+  - component: {fileID: 1329994829}
+  m_Layer: 5
+  m_Name: Pausa
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &1329994828
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1329994827}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 668388892}
+  - {fileID: 305491133}
+  - {fileID: 1746890287}
+  m_Father: {fileID: 1247419452}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0.0000076294, y: -0.0014801}
+  m_SizeDelta: {x: 0, y: -0.0030518}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1329994829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1329994827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.392}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &1329994830
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1329994827}
 --- !u!1 &1365192776
 GameObject:
   m_ObjectHideFlags: 0
@@ -18056,7 +18177,7 @@ GameObject:
   - component: {fileID: 1365192777}
   m_Layer: 0
   m_Name: "Sin t\xEDtulo_8"
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18136,12 +18257,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1365192776}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.97, y: 8.87, z: 0}
-  m_LocalScale: {x: 1.7631998, y: 1.7631998, z: 1.7631998}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7557836, y: 2.2967877, z: 0}
+  m_LocalScale: {x: 0.3314558, y: 0.4479752, z: 1.7631998}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 56
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1366378497
 GameObject:
@@ -18156,7 +18277,7 @@ GameObject:
   - component: {fileID: 1366378498}
   m_Layer: 0
   m_Name: Quad (9)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18240,119 +18361,6 @@ Transform:
   m_Father: {fileID: 2110886246}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1380729386
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 2110886246}
-    m_Modifications:
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 1.927
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 19.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: -0.027199887
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_RootOrder
-      value: 101
-      objectReference: {fileID: 0}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: protagonist
-      value: 
-      objectReference: {fileID: 1531950800}
-    - target: {fileID: 1180517802637604, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_Name
-      value: slime_sheet_2_0 (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 212102155340326150, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Color.r
-      value: 0.75
-      objectReference: {fileID: 0}
-    - target: {fileID: 212102155340326150, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.33639705
-      objectReference: {fileID: 0}
-    - target: {fileID: 212102155340326150, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Color.b
-      value: 0.36206895
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 16.989979
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 0.33571297
-      objectReference: {fileID: 0}
-    - target: {fileID: 114675110043988448, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114675110043988448, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: velocidad
-      value: 0.05
-      objectReference: {fileID: 0}
-    - target: {fileID: 1180517802637604, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_TagString
-      value: Enemigo
-      objectReference: {fileID: 0}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: Barravida
-      value: 
-      objectReference: {fileID: 357061307}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: vida
-      value: 
-      objectReference: {fileID: 585598762}
-    - target: {fileID: 50751223093407886, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Constraints
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: ProtaRigidbody
-      value: 
-      objectReference: {fileID: 1531950802}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: EnemyRigidbody
-      value: 
-      objectReference: {fileID: 521114538}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &1400384605
 GameObject:
   m_ObjectHideFlags: 0
@@ -18366,7 +18374,7 @@ GameObject:
   - component: {fileID: 1400384607}
   m_Layer: 0
   m_Name: Quad (101)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18382,7 +18390,7 @@ Transform:
   m_LocalScale: {x: 0.02995171, y: 0.97310567, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 119
+  m_RootOrder: 114
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1400384607
 BoxCollider2D:
@@ -18463,7 +18471,7 @@ GameObject:
   - component: {fileID: 1403634744}
   m_Layer: 0
   m_Name: Quad (64)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18552,15 +18560,15 @@ Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 409764816}
     m_Modifications:
     - target: {fileID: 4594506082598692, guid: a29326945227e844e8ced31c61fc496b, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -24.58
+      value: -1.494484
       objectReference: {fileID: 0}
     - target: {fileID: 4594506082598692, guid: a29326945227e844e8ced31c61fc496b, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 19.54
+      value: 5.007709
       objectReference: {fileID: 0}
     - target: {fileID: 4594506082598692, guid: a29326945227e844e8ced31c61fc496b, type: 2}
       propertyPath: m_LocalPosition.z
@@ -18568,15 +18576,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4594506082598692, guid: a29326945227e844e8ced31c61fc496b, type: 2}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4594506082598692, guid: a29326945227e844e8ced31c61fc496b, type: 2}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4594506082598692, guid: a29326945227e844e8ced31c61fc496b, type: 2}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4594506082598692, guid: a29326945227e844e8ced31c61fc496b, type: 2}
       propertyPath: m_LocalRotation.w
@@ -18584,11 +18592,19 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4594506082598692, guid: a29326945227e844e8ced31c61fc496b, type: 2}
       propertyPath: m_RootOrder
-      value: 60
+      value: 32
       objectReference: {fileID: 0}
     - target: {fileID: 1280145692284708, guid: a29326945227e844e8ced31c61fc496b, type: 2}
       propertyPath: m_Name
       value: New Prefab (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4594506082598692, guid: a29326945227e844e8ced31c61fc496b, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.04413482
+      objectReference: {fileID: 0}
+    - target: {fileID: 4594506082598692, guid: a29326945227e844e8ced31c61fc496b, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.053087626
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a29326945227e844e8ced31c61fc496b, type: 2}
@@ -18606,7 +18622,7 @@ GameObject:
   - component: {fileID: 1417470256}
   m_Layer: 0
   m_Name: Quad (65)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18727,7 +18743,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
       propertyPath: m_RootOrder
-      value: 173
+      value: 172
       objectReference: {fileID: 0}
     - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
         type: 2}
@@ -19012,7 +19028,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 32
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1451706859
 GameObject:
@@ -19027,7 +19043,7 @@ GameObject:
   - component: {fileID: 1451706863}
   m_Layer: 0
   m_Name: Cawswtel_1 (5)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19112,7 +19128,7 @@ Transform:
   m_LocalScale: {x: 0.23722748, y: 9.811734, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 91
+  m_RootOrder: 89
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1451706863
 MonoBehaviour:
@@ -19140,7 +19156,7 @@ GameObject:
   - component: {fileID: 1453354291}
   m_Layer: 0
   m_Name: Quad (88)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19156,7 +19172,7 @@ Transform:
   m_LocalScale: {x: 0.055008996, y: 3.0399685, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 106
+  m_RootOrder: 101
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1453354291
 BoxCollider2D:
@@ -19237,7 +19253,7 @@ GameObject:
   - component: {fileID: 1462287734}
   m_Layer: 0
   m_Name: Quad (80)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19345,11 +19361,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1465620869}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.035, y: 11.683, z: 0}
+  m_LocalPosition: {x: -7.035, y: 11.683, z: -2}
   m_LocalScale: {x: -0.014907018, y: 0.36639977, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1465620871
 BoxCollider2D:
@@ -19433,7 +19449,7 @@ GameObject:
   - component: {fileID: 1466088620}
   m_Layer: 0
   m_Name: Quad (91)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19449,7 +19465,7 @@ Transform:
   m_LocalScale: {x: 0.043878242, y: 2.7177317, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 109
+  m_RootOrder: 104
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1466088620
 BoxCollider2D:
@@ -19530,7 +19546,7 @@ GameObject:
   - component: {fileID: 1474695597}
   m_Layer: 0
   m_Name: Quad (31)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19627,7 +19643,7 @@ GameObject:
   - component: {fileID: 1493812090}
   m_Layer: 0
   m_Name: Quad (28)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19724,7 +19740,7 @@ GameObject:
   - component: {fileID: 1520493983}
   m_Layer: 0
   m_Name: Quad (70)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19826,7 +19842,7 @@ GameObject:
   - component: {fileID: 1528686472}
   m_Layer: 0
   m_Name: Quad (11)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20009,11 +20025,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidad: 0.05
-  salto: 0.1
-  GC: {fileID: 1791369051}
+  salto: 250
+  maxsaltos: 1
+  GC: {fileID: 746608134}
   muerto: 0
   vida: {fileID: 585598762}
-  GCBOSS: {fileID: 1931193990}
   Estar: 0
   Health: 200
 --- !u!212 &1531950805
@@ -20069,7 +20085,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1531950800}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -64.85, y: 30.13, z: 0}
+  m_LocalPosition: {x: -64, y: 29.75, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1171230987}
@@ -20241,11 +20257,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1544061791}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -28.982124, y: 15.916, z: 0}
-  m_LocalScale: {x: 0.68650997, y: 2.5661325, z: 1}
+  m_LocalPosition: {x: -0.7659997, y: 19.532398, z: -2}
+  m_LocalScale: {x: 0.20365646, y: 1.7607927, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 26
+  m_Father: {fileID: 232909461}
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1546800161
 GameObject:
@@ -20260,7 +20276,7 @@ GameObject:
   - component: {fileID: 1546800162}
   m_Layer: 0
   m_Name: Quad (17)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20343,6 +20359,48 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2110886246}
   m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1547396499
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1547396502}
+  - component: {fileID: 1547396501}
+  m_Layer: 0
+  m_Name: Pause
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1547396501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1547396499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1532bdf8b4a04c64caff5411ef81ea34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MenuPausaUI: {fileID: 1329994827}
+  GC: {fileID: 746608134}
+--- !u!4 &1547396502
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1547396499}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -21.255527, y: 17.42964, z: -0.14648438}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1552338606
 Prefab:
@@ -20449,7 +20507,7 @@ GameObject:
   - component: {fileID: 1556856666}
   m_Layer: 0
   m_Name: Quad (128)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20465,7 +20523,7 @@ Transform:
   m_LocalScale: {x: 0.049882986, y: 0.8779326, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 146
+  m_RootOrder: 141
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1556856666
 BoxCollider2D:
@@ -20546,7 +20604,7 @@ GameObject:
   - component: {fileID: 1563532719}
   m_Layer: 0
   m_Name: Quad (29)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20701,12 +20759,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1576228943}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.943, y: 0.011, z: 0}
-  m_LocalScale: {x: 2.3542094, y: 0.80467516, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7507082, y: 0.045986567, z: -4}
+  m_LocalScale: {x: 0.44255698, y: 0.20444338, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 44
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1581782626
 Prefab:
@@ -20783,7 +20841,7 @@ RectTransform:
   m_Children:
   - {fileID: 1069247843}
   m_Father: {fileID: 1247419452}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -20837,7 +20895,7 @@ GameObject:
   - component: {fileID: 1589103255}
   m_Layer: 0
   m_Name: "Sin t\xEDtulo_4"
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20897,7 +20955,7 @@ Transform:
   m_LocalScale: {x: 0.19504151, y: 10.093831, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 86
+  m_RootOrder: 85
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1589103255
 BoxCollider2D:
@@ -20968,7 +21026,7 @@ GameObject:
   - component: {fileID: 1594614136}
   m_Layer: 0
   m_Name: Cawswtel_1 (3)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21068,7 +21126,7 @@ GameObject:
   - component: {fileID: 1613270802}
   m_Layer: 0
   m_Name: Quad (105)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21084,7 +21142,7 @@ Transform:
   m_LocalScale: {x: 0.02995171, y: 0.93090916, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 123
+  m_RootOrder: 118
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1613270802
 BoxCollider2D:
@@ -21164,7 +21222,7 @@ GameObject:
   - component: {fileID: 1615884116}
   m_Layer: 0
   m_Name: Cawswtel_1 (4)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21245,11 +21303,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1615884115}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -66.451, y: 11.636, z: 0}
-  m_LocalScale: {x: 2.0976634, y: 2.0721943, z: 0.73672146}
+  m_LocalPosition: {x: -9.36562, y: 2.999544, z: 0}
+  m_LocalScale: {x: 0.39433008, y: 0.5264813, z: 0.73672146}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 38
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1617384265
 GameObject:
@@ -21264,7 +21322,7 @@ GameObject:
   - component: {fileID: 1617384267}
   m_Layer: 0
   m_Name: Quad (113)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21280,7 +21338,7 @@ Transform:
   m_LocalScale: {x: 0.12200277, y: 0.5770254, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 131
+  m_RootOrder: 126
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1617384267
 BoxCollider2D:
@@ -21460,12 +21518,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1633913756}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -68.599, y: 14.68, z: 0}
-  m_LocalScale: {x: 1.4405729, y: 2.3712554, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.769413, y: 3.7729313, z: 0}
+  m_LocalScale: {x: 0.27080664, y: 0.60246354, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 36
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1640620350
 GameObject:
@@ -21479,7 +21537,7 @@ GameObject:
   - component: {fileID: 1640620351}
   m_Layer: 0
   m_Name: "Sin t\xEDtulo_8 (5)"
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21559,12 +21617,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1640620350}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.87, y: 4.49, z: 0}
-  m_LocalScale: {x: 1.7631998, y: 1.7631998, z: 1.7631998}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7369853, y: 1.1839635, z: 0}
+  m_LocalScale: {x: 0.3314558, y: 0.4479752, z: 1.7631998}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 62
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1640788962
 GameObject:
@@ -21632,12 +21690,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1640788962}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -59.7, y: 24.8, z: 0}
-  m_LocalScale: {x: 7.0328007, y: 3.1061177, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -59.699997, y: 24.800003, z: -1}
+  m_LocalScale: {x: 7.0327997, y: 3.1061177, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1644218456
 GameObject:
@@ -21652,7 +21710,7 @@ GameObject:
   - component: {fileID: 1644218460}
   m_Layer: 0
   m_Name: Cawswtel_1 (6)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21737,7 +21795,7 @@ Transform:
   m_LocalScale: {x: 0.27579334, y: 11.830138, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 92
+  m_RootOrder: 90
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1644218460
 MonoBehaviour:
@@ -21811,7 +21869,7 @@ GameObject:
   - component: {fileID: 1645540232}
   m_Layer: 0
   m_Name: Quad (142)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21889,11 +21947,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1645540231}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -27.35, y: 20.3, z: 0.027199887}
-  m_LocalScale: {x: 1.0804454, y: 0.18880004, z: 0.53024}
+  m_LocalPosition: {x: -2.0152037, y: 5.2008014, z: 0.027199887}
+  m_LocalScale: {x: 0.20310795, y: 0.04796832, z: 0.53024}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 53
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1675744778
 GameObject:
@@ -21908,7 +21966,7 @@ GameObject:
   - component: {fileID: 1675744780}
   m_Layer: 0
   m_Name: Quad (133)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21924,7 +21982,7 @@ Transform:
   m_LocalScale: {x: 0.050913405, y: 0.43071568, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 151
+  m_RootOrder: 146
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1675744780
 BoxCollider2D:
@@ -22004,7 +22062,7 @@ GameObject:
   - component: {fileID: 1680775496}
   m_Layer: 0
   m_Name: "Sin t\xEDtulo_8 (3)"
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22084,12 +22142,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1680775495}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.97, y: 14.94, z: 0}
-  m_LocalScale: {x: 1.7631998, y: 1.7631998, z: 1.7631998}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7557836, y: 3.8389893, z: 0}
+  m_LocalScale: {x: 0.3314558, y: 0.4479752, z: 1.7631998}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 59
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1689157359
 Prefab:
@@ -22128,7 +22186,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
       propertyPath: m_RootOrder
-      value: 167
+      value: 166
       objectReference: {fileID: 0}
     - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
         type: 2}
@@ -22292,7 +22350,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4594506082598692, guid: a29326945227e844e8ced31c61fc496b, type: 2}
       propertyPath: m_RootOrder
-      value: 29
+      value: 26
       objectReference: {fileID: 0}
     - target: {fileID: 1280145692284708, guid: a29326945227e844e8ced31c61fc496b, type: 2}
       propertyPath: m_Name
@@ -22410,6 +22468,127 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1746890286
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1746890287}
+  - component: {fileID: 1746890290}
+  - component: {fileID: 1746890289}
+  - component: {fileID: 1746890288}
+  m_Layer: 5
+  m_Name: Button (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1746890287
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1746890286}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1329994828}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -87.850006}
+  m_SizeDelta: {x: 144.9, y: 55.5}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1746890288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1746890286}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1746890289}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 834810798}
+        m_MethodName: Salir
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &1746890289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1746890286}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: f8c1e15baf05c874bb9ff183763e8867, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &1746890290
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1746890286}
 --- !u!1 &1749565442
 GameObject:
   m_ObjectHideFlags: 0
@@ -22423,7 +22602,7 @@ GameObject:
   - component: {fileID: 1749565444}
   m_Layer: 0
   m_Name: Quad (93)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22439,7 +22618,7 @@ Transform:
   m_LocalScale: {x: 0.023086945, y: 12.470851, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 111
+  m_RootOrder: 106
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1749565444
 BoxCollider2D:
@@ -22507,11 +22686,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1749565442}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &1757284478 stripped
-Transform:
-  m_PrefabParentObject: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675,
-    type: 2}
-  m_PrefabInternal: {fileID: 61422937}
 --- !u!1 &1762191499
 GameObject:
   m_ObjectHideFlags: 0
@@ -22525,7 +22699,7 @@ GameObject:
   - component: {fileID: 1762191500}
   m_Layer: 0
   m_Name: Quad (2)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22622,7 +22796,7 @@ GameObject:
   - component: {fileID: 1772832226}
   m_Layer: 0
   m_Name: Quad (121)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22638,7 +22812,7 @@ Transform:
   m_LocalScale: {x: 0.061562087, y: 1.2607354, z: 0.5302355}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 139
+  m_RootOrder: 134
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1772832226
 BoxCollider2D:
@@ -22719,7 +22893,7 @@ GameObject:
   - component: {fileID: 1773840972}
   m_Layer: 0
   m_Name: Quad (100)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22735,7 +22909,7 @@ Transform:
   m_LocalScale: {x: 0.02995171, y: 0.97310567, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 118
+  m_RootOrder: 113
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1773840972
 BoxCollider2D:
@@ -22869,12 +23043,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1774332916}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.915, y: 8.413, z: 0}
-  m_LocalScale: {x: 2.3829472, y: 2.481611, z: 2.2771204}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7454447, y: 2.1806781, z: -4}
+  m_LocalScale: {x: 0.44795927, y: 0.63050157, z: 2.2771204}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 41
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1776598308
 GameObject:
@@ -22889,7 +23063,7 @@ GameObject:
   - component: {fileID: 1776598310}
   m_Layer: 0
   m_Name: Quad (106)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22905,7 +23079,7 @@ Transform:
   m_LocalScale: {x: 0.02995171, y: 0.9309, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 124
+  m_RootOrder: 119
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1776598310
 BoxCollider2D:
@@ -22986,7 +23160,7 @@ GameObject:
   - component: {fileID: 1780663759}
   m_Layer: 0
   m_Name: Quad (54)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23137,11 +23311,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1783297787}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.5032425, y: 14.905582, z: 0}
-  m_LocalScale: {x: 2.505963, y: 8.683107, z: 1}
+  m_LocalPosition: {x: -7.849001, y: 9.173001, z: -1}
+  m_LocalScale: {x: 8.447405, y: 12.654531, z: 1}
   m_Children: []
-  m_Father: {fileID: 232909461}
-  m_RootOrder: 0
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1788306993
 GameObject:
@@ -23238,7 +23412,7 @@ GameObject:
   - component: {fileID: 1789442469}
   m_Layer: 0
   m_Name: Cawswtel_1 (12)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23254,7 +23428,7 @@ Transform:
   m_LocalScale: {x: 0.27586603, y: 8.862427, z: 0.91015}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 158
+  m_RootOrder: 153
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1789442469
 BoxCollider2D:
@@ -23353,8 +23527,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverText: {fileID: 1584150360}
-  Theme: {fileID: 1740799998}
-  ThemeBoss: {fileID: 907193616}
+  Theme: {fileID: 907193616}
+  ThemeBoss: {fileID: 1740799998}
   SonidoMuerte: {fileID: 1451394197}
   BarravidaChao: {fileID: 791885120}
   gameOver: 0
@@ -23369,7 +23543,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1814675149
 GameObject:
@@ -23384,7 +23558,7 @@ GameObject:
   - component: {fileID: 1814675151}
   m_Layer: 0
   m_Name: Quad (75)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23481,7 +23655,7 @@ GameObject:
   - component: {fileID: 1816697386}
   m_Layer: 0
   m_Name: Quad (45)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23565,90 +23739,6 @@ Transform:
   m_Father: {fileID: 2110886246}
   m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1828963118
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 2110886246}
-    m_Modifications:
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 1.175
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 25.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: -0.027199887
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_RootOrder
-      value: 99
-      objectReference: {fileID: 0}
-    - target: {fileID: 114626807490579022, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: protagonist
-      value: 
-      objectReference: {fileID: 1531950800}
-    - target: {fileID: 1180517802637604, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_Name
-      value: slime_sheet_2_0 (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 212102155340326150, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Color.r
-      value: 0.75
-      objectReference: {fileID: 0}
-    - target: {fileID: 212102155340326150, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Color.g
-      value: 0.33639705
-      objectReference: {fileID: 0}
-    - target: {fileID: 212102155340326150, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Color.b
-      value: 0.36206895
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 16.989979
-      objectReference: {fileID: 0}
-    - target: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 0.33571297
-      objectReference: {fileID: 0}
-    - target: {fileID: 114675110043988448, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114675110043988448, guid: 57295dbe969d3e44687188cbe89e9675,
-        type: 2}
-      propertyPath: velocidad
-      value: 0.05
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 57295dbe969d3e44687188cbe89e9675, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &1833969223
 GameObject:
   m_ObjectHideFlags: 0
@@ -23662,7 +23752,7 @@ GameObject:
   - component: {fileID: 1833969225}
   m_Layer: 0
   m_Name: Quad (115)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23678,7 +23768,7 @@ Transform:
   m_LocalScale: {x: 0.02338602, y: 0.642758, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 133
+  m_RootOrder: 128
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1833969225
 BoxCollider2D:
@@ -23801,7 +23891,7 @@ GameObject:
   - component: {fileID: 1877538435}
   m_Layer: 0
   m_Name: Cawswtel_1 (7)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23886,7 +23976,7 @@ Transform:
   m_LocalScale: {x: 0.27579334, y: 11.830138, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 93
+  m_RootOrder: 91
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1877538435
 MonoBehaviour:
@@ -24037,11 +24127,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1902291445}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.662, y: 9.328, z: 0}
+  m_LocalPosition: {x: -3.662, y: 9.328, z: -2}
   m_LocalScale: {x: 0.33938953, y: -0.51571, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1902291447
 BoxCollider2D:
@@ -24125,7 +24215,7 @@ GameObject:
   - component: {fileID: 1904532851}
   m_Layer: 0
   m_Name: Quad (49)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24379,7 +24469,7 @@ GameObject:
   - component: {fileID: 1911743127}
   m_Layer: 0
   m_Name: "Sin t\xEDtulo_8 (2)"
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24459,12 +24549,12 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1911743126}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -25.92, y: 12.94, z: 0}
-  m_LocalScale: {x: 1.7631998, y: 1.7631998, z: 1.7631998}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.7463845, y: 3.3308504, z: 0}
+  m_LocalScale: {x: 0.3314558, y: 0.4479752, z: 1.7631998}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 58
+  m_Father: {fileID: 409764816}
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1914563234
 GameObject:
@@ -24479,7 +24569,7 @@ GameObject:
   - component: {fileID: 1914563236}
   m_Layer: 0
   m_Name: Quad (131)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24495,7 +24585,7 @@ Transform:
   m_LocalScale: {x: 0.050913405, y: 0.43071568, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 149
+  m_RootOrder: 144
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1914563236
 BoxCollider2D:
@@ -24576,7 +24666,7 @@ GameObject:
   - component: {fileID: 1930567765}
   m_Layer: 0
   m_Name: Quad (77)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24660,52 +24750,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1930567763}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &1931193989
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 1931193991}
-  - component: {fileID: 1931193990}
-  m_Layer: 0
-  m_Name: GC BOSS
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1931193990
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1931193989}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aa35f98d19d544e4282638ab3bbde678, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  gameOverText: {fileID: 791885120}
-  Estar: 0
-  Sonido: {fileID: 907193616}
-  SonidoTheme: {fileID: 1740799998}
-  CamaraBoss: {fileID: 1246760895}
-  CamaraPrincipal: {fileID: 357061304}
---- !u!4 &1931193991
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1931193989}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -34.37194, y: 21.269043, z: 1.7109375}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 22
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1933398830
 GameObject:
   m_ObjectHideFlags: 0
@@ -24719,7 +24763,7 @@ GameObject:
   - component: {fileID: 1933398832}
   m_Layer: 0
   m_Name: Quad (116)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24735,7 +24779,7 @@ Transform:
   m_LocalScale: {x: 0.023386117, y: 0.6427584, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 134
+  m_RootOrder: 129
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1933398832
 BoxCollider2D:
@@ -24816,7 +24860,7 @@ GameObject:
   - component: {fileID: 1946384968}
   m_Layer: 0
   m_Name: Quad (50)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24913,7 +24957,7 @@ GameObject:
   - component: {fileID: 1957859086}
   m_Layer: 0
   m_Name: Quad (79)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25010,7 +25054,7 @@ GameObject:
   - component: {fileID: 1982535836}
   m_Layer: 0
   m_Name: Quad (69)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25107,7 +25151,7 @@ GameObject:
   - component: {fileID: 1990939028}
   m_Layer: 0
   m_Name: Quad (73)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25204,7 +25248,7 @@ GameObject:
   - component: {fileID: 1997303205}
   m_Layer: 0
   m_Name: Quad (102)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25220,7 +25264,7 @@ Transform:
   m_LocalScale: {x: 0.02995171, y: 0.97310567, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 120
+  m_RootOrder: 115
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1997303205
 BoxCollider2D:
@@ -25301,7 +25345,7 @@ GameObject:
   - component: {fileID: 2002672526}
   m_Layer: 0
   m_Name: Quad (53)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25398,7 +25442,7 @@ GameObject:
   - component: {fileID: 2005885742}
   m_Layer: 0
   m_Name: Quad (86)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25414,7 +25458,7 @@ Transform:
   m_LocalScale: {x: 0.0661415, y: 12.546187, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 104
+  m_RootOrder: 99
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2005885742
 BoxCollider2D:
@@ -25495,7 +25539,7 @@ GameObject:
   - component: {fileID: 2012213987}
   m_Layer: 0
   m_Name: Quad (18)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25660,7 +25704,7 @@ GameObject:
   - component: {fileID: 2015892608}
   m_Layer: 0
   m_Name: Quad (46)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25756,7 +25800,7 @@ GameObject:
   - component: {fileID: 2028373922}
   m_Layer: 0
   m_Name: Cawswtel_1 (11)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25772,7 +25816,7 @@ Transform:
   m_LocalScale: {x: 0.27586603, y: 8.862427, z: 0.91015}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 157
+  m_RootOrder: 152
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2028373922
 BoxCollider2D:
@@ -25856,7 +25900,7 @@ GameObject:
   - component: {fileID: 2044381258}
   m_Layer: 0
   m_Name: Quad (112)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25872,7 +25916,7 @@ Transform:
   m_LocalScale: {x: 0.12200256, y: 0.57702893, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 130
+  m_RootOrder: 125
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2044381258
 BoxCollider2D:
@@ -25953,7 +25997,7 @@ GameObject:
   - component: {fileID: 2059258157}
   m_Layer: 0
   m_Name: Quad (66)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26050,7 +26094,7 @@ GameObject:
   - component: {fileID: 2059453194}
   m_Layer: 0
   m_Name: Quad (123)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26066,7 +26110,7 @@ Transform:
   m_LocalScale: {x: 0.061562054, y: 1.2607278, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 141
+  m_RootOrder: 136
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2059453194
 BoxCollider2D:
@@ -26146,7 +26190,7 @@ GameObject:
   - component: {fileID: 2068995804}
   m_Layer: 0
   m_Name: Cawswtel_1 (10)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26162,7 +26206,7 @@ Transform:
   m_LocalScale: {x: 0.14518411, y: 4.6641684, z: 0.47899938}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 102
+  m_RootOrder: 96
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2068995804
 BoxCollider2D:
@@ -26246,7 +26290,7 @@ GameObject:
   - component: {fileID: 2090857014}
   m_Layer: 0
   m_Name: Quad (122)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26262,7 +26306,7 @@ Transform:
   m_LocalScale: {x: 0.061562054, y: 1.2607278, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 140
+  m_RootOrder: 135
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2090857014
 BoxCollider2D:
@@ -26401,7 +26445,7 @@ Transform:
   m_LocalScale: {x: -0.082967006, y: 4.520103, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 87
+  m_RootOrder: 86
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2110886242
 GameObject:
@@ -26581,11 +26625,9 @@ Transform:
   - {fileID: 1047760091}
   - {fileID: 26124472}
   - {fileID: 204857757}
-  - {fileID: 1099481163}
   - {fileID: 933756588}
   - {fileID: 1589103254}
   - {fileID: 2110625191}
-  - {fileID: 632053506}
   - {fileID: 70745781}
   - {fileID: 751054430}
   - {fileID: 1451706862}
@@ -26594,12 +26636,9 @@ Transform:
   - {fileID: 496821415}
   - {fileID: 981587538}
   - {fileID: 342506874}
-  - {fileID: 852873490}
   - {fileID: 1301447857}
-  - {fileID: 2113391398}
-  - {fileID: 1757284478}
-  - {fileID: 156085547}
   - {fileID: 2068995803}
+  - {fileID: 852873490}
   - {fileID: 776890312}
   - {fileID: 2005885741}
   - {fileID: 342170788}
@@ -26657,6 +26696,8 @@ Transform:
   - {fileID: 2028373921}
   - {fileID: 1789442468}
   - {fileID: 2112285175}
+  - {fileID: 182096774}
+  - {fileID: 467740602}
   - {fileID: 1180478661}
   - {fileID: 763555444}
   - {fileID: 305906253}
@@ -26668,11 +26709,9 @@ Transform:
   - {fileID: 1178232667}
   - {fileID: 98880682}
   - {fileID: 1447962742}
-  - {fileID: 182096774}
-  - {fileID: 467740602}
   - {fileID: 1440041918}
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2112285174
 GameObject:
@@ -26686,7 +26725,7 @@ GameObject:
   - component: {fileID: 2112285176}
   m_Layer: 0
   m_Name: Cawswtel_1 (14)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26702,7 +26741,7 @@ Transform:
   m_LocalScale: {x: 0.27586603, y: 8.862427, z: 0.91015}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 159
+  m_RootOrder: 154
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2112285176
 BoxCollider2D:
@@ -26773,11 +26812,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
---- !u!4 &2113391398 stripped
-Transform:
-  m_PrefabParentObject: {fileID: 4953064086047336, guid: 57295dbe969d3e44687188cbe89e9675,
-    type: 2}
-  m_PrefabInternal: {fileID: 1828963118}
 --- !u!1 &2124831403
 GameObject:
   m_ObjectHideFlags: 0
@@ -26791,7 +26825,7 @@ GameObject:
   - component: {fileID: 2124831405}
   m_Layer: 0
   m_Name: Quad (130)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26807,7 +26841,7 @@ Transform:
   m_LocalScale: {x: 0.050913405, y: 0.43071568, z: 0.53024}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 148
+  m_RootOrder: 143
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2124831405
 BoxCollider2D:
@@ -26888,7 +26922,7 @@ GameObject:
   - component: {fileID: 2128118814}
   m_Layer: 0
   m_Name: Quad (104)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26904,7 +26938,7 @@ Transform:
   m_LocalScale: {x: 0.02995171, y: 0.8887262, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 122
+  m_RootOrder: 117
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2128118814
 BoxCollider2D:
@@ -27053,7 +27087,7 @@ GameObject:
   - component: {fileID: 2140662897}
   m_Layer: 0
   m_Name: Quad (120)
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27069,7 +27103,7 @@ Transform:
   m_LocalScale: {x: 0.023086982, y: 12.470839, z: 1}
   m_Children: []
   m_Father: {fileID: 2110886246}
-  m_RootOrder: 138
+  m_RootOrder: 133
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2140662897
 BoxCollider2D:
