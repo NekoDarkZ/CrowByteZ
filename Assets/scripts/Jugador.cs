@@ -70,10 +70,17 @@ public class Jugador : MonoBehaviour
 
 
 
+        
 
 
 
-
+    }
+    public void OnCollisionStay2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Plataforma")
+        {
+            GetComponent<Animator>().SetBool("Aire", false);
+        }
     }
     public void OnCollisionExit2D(Collision2D collision)
     {
