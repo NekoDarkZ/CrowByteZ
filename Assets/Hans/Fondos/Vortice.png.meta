@@ -6,6 +6,7 @@ TextureImporter:
   fileIDToRecycleName:
     21300000: Vortice_0
     21300002: Vortice_1
+    21300004: Vortice_2
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -101,9 +102,23 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 107
-        y: 71
+        y: 70
         width: 767
         height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vortice_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 771
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
