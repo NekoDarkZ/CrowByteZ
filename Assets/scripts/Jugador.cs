@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class Jugador : MonoBehaviour
 {
-
+    Rigidbody2D myRB;
+    public float maxSpeed;
     [SerializeField] float velocidad;
     [SerializeField] float salto;
     [SerializeField] int maxsaltos;
@@ -62,16 +63,44 @@ public class Jugador : MonoBehaviour
             }
 
 
+        }
+        if (collision.gameObject.tag == "Power UP Velocidad")
+        {
+            if (Health == 190)
+            {
+                maxSpeed = 10;
+             
+                Destroy(collision.gameObject);
+
+            }
+            if (Health == 200)
+            {
+
+                maxSpeed = 10;
+                
+                Destroy(collision.gameObject);
+            }
 
 
         }
+        if (collision.gameObject.tag == "Power UP Salto")
+        {
+            if (Health == 190)
+            {
+                salto = 350;
+
+                Destroy(collision.gameObject);
+
+            }
+            if (Health == 200)
+            {
+
+                salto = 350;
+                Destroy(collision.gameObject);
+            }
 
 
-
-
-
-        
-
+        }
 
 
     }
@@ -97,13 +126,20 @@ public class Jugador : MonoBehaviour
     }
 
 
+    void Start()
+    {
+        myRB = GetComponent<Rigidbody2D>();
+
+    }
     // Update is called once per frame
     void Update()
     {
-
+        float move = Input.GetAxis("Horizontal");
+        myRB.velocity = new Vector2(move * maxSpeed, myRB.velocity.y);
         ////Codigo de movimiento////
         if (Input.GetKey(KeyCode.RightArrow))
         {
+
             //flipea la  imagen a la derecha si esta hacia la izquierda
             if (GetComponent<SpriteRenderer>().flipX == true)
             {
@@ -111,8 +147,7 @@ public class Jugador : MonoBehaviour
             }
             //mueve el personaje a la derechachacha
             GetComponent<Animator>().SetBool("caminar", true);
-            transform.Translate(velocidad, 0, 0);
-
+            
         }
         //Preguntar por una tecla para accionar algo cuando es presionada (En este caso la flecha izquierda)
         if (Input.GetKey(KeyCode.LeftArrow))
@@ -124,7 +159,7 @@ public class Jugador : MonoBehaviour
             }
             //mueve el personaje a la izquierdadada
             GetComponent<Animator>().SetBool("caminar", true);
-            transform.Translate(-velocidad, 0, 0);
+            
 
         }
         //esto es para eliminar el movimiento

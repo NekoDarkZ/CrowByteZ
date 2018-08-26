@@ -9,6 +9,11 @@ TextureImporter:
     21300004: Vortice_2
     21300006: Vortice_3
     21300008: Vortice_4
+    21300010: Vortice_5
+    21300012: Vortice_6
+    21300014: Vortice_7
+    21300016: Vortice_8
+    21300018: Vortice_9
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -136,7 +141,7 @@ TextureImporter:
         width: 469
         height: 480
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -149,6 +154,76 @@ TextureImporter:
         y: 399
         width: 18
         height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vortice_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 327
+        width: 243
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vortice_6
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 401
+        width: 26
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vortice_7
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 370
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vortice_8
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 497
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Vortice_9
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 300
+        width: 251
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
