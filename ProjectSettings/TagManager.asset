@@ -23,6 +23,10 @@ TagManager:
   - SonidoMuerte
   - Belmont
   - Plataforma
+  - Power UP Salto
+  - Power UP Velocidad
+  - Warp
+  - Jefedead
   layers:
   - Default
   - TransparentFX

@@ -8,12 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/escenas/Menu.unity
     guid: d99747253c35b644a9b2ce80a43cda68
-  - enabled: 0
-    path: Assets/escenas/escena1.unity
-    guid: 048e0dda76295ca44a8adb00a2f53858
   - enabled: 1
     path: Assets/escenas/Creditos.unity
     guid: e814ebdd01d92414e952b202474f37df
   - enabled: 1
-    path: Assets/NIVEL1.unity
-    guid: 445dad5adfb9d4c4d8c59b57fb85a500
+    path: Assets/escenas/tutorial.unity
+    guid: e8f7da0f5cef1a54395d08d7c71f7df7
+  - enabled: 1
+    path: Assets/NIVEL_1_DEFINITIVO.unity
+    guid: 0ffd85f722629044f9eaf9f7bc0303d0
+  - enabled: 1
+    path: Assets/NIVEL_2_DEFINITIVO.unity
+    guid: 019b5d5072f9111489f31799cc772f8c

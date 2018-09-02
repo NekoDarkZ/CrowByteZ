@@ -7,6 +7,7 @@ public class Boss : MonoBehaviour
     [SerializeField] GameObject protagonist;
     [SerializeField] Camera Barravida;
     [SerializeField] BarraVidaJefe VidaB;
+	[SerializeField] GameObject Desaparece;
 
     public float HealthB = 200;
 
@@ -41,7 +42,7 @@ public class Boss : MonoBehaviour
             
             if (HealthB == 160)
             {
-
+				Destroy (Desaparece);
                 Destroy(gameObject);
 
             }
@@ -65,7 +66,7 @@ public class Boss : MonoBehaviour
 
                 if (HealthB == 160)
                 {
-
+					Destroy (Desaparece);
                     Destroy(gameObject);
 
                 }
@@ -85,7 +86,7 @@ public class Boss : MonoBehaviour
       
                 if (HealthB == 160)
                 {
-
+					Destroy (Desaparece);
                     Destroy(gameObject);
 
                 }

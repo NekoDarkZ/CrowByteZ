@@ -80,6 +80,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   warp: {fileID: 0}
   nivel: NIVEL_1_DEFINITIVO
+  Cargando: {fileID: 0}
 --- !u!212 &212875755237398986
 SpriteRenderer:
   m_ObjectHideFlags: 1
