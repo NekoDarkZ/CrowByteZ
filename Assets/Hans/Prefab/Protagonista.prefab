@@ -381,7 +381,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.5, y: -0.03}
+  m_Offset: {x: -0.4, y: -0.03}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -392,7 +392,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.1, y: 0.6}
+  m_Size: {x: 0.3, y: 0.6}
   m_EdgeRadius: 0
 --- !u!61 &61542420478826388
 BoxCollider2D:
@@ -456,7 +456,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -1, y: -0.03}
+  m_Offset: {x: -1.1, y: -0.03}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -467,7 +467,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.1, y: 0.6}
+  m_Size: {x: 0.3, y: 0.6}
   m_EdgeRadius: 0
 --- !u!95 &95476646035576948
 Animator:
@@ -497,8 +497,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9a5c4c7199244c438bee5caa3e7b7f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxSpeed: 2
   velocidad: 0.05
-  salto: 0.1
+  salto: 200
+  maxsaltos: 0
   GC: {fileID: 0}
   muerto: 0
   vida: {fileID: 0}

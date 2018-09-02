@@ -497,8 +497,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9a5c4c7199244c438bee5caa3e7b7f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maxSpeed: 2
   velocidad: 0.05
   salto: 0.2
+  maxsaltos: 0
+  GC: {fileID: 0}
+  muerto: 0
+  vida: {fileID: 0}
+  Estar: 0
+  Health: 200
 --- !u!212 &212503701212012328
 SpriteRenderer:
   m_ObjectHideFlags: 1

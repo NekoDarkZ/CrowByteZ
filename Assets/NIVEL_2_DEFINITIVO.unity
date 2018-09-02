@@ -40442,6 +40442,7 @@ MonoBehaviour:
   protagonist: {fileID: 0}
   Barravida: {fileID: 0}
   VidaB: {fileID: 0}
+  Desaparece: {fileID: 0}
   HealthB: 200
   moveDirectionPush: {x: 0, y: 0, z: 0}
   ProtaRigidbody: {fileID: 0}
