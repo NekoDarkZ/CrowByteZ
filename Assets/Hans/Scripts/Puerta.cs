@@ -67,7 +67,7 @@ public class Puerta : MonoBehaviour
         }
         if (col.gameObject.tag == "Player")
         {
-            
+        
         }
     }
 }

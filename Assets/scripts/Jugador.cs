@@ -64,20 +64,36 @@ public class Jugador : MonoBehaviour
 
 
         }
-        if (collision.gameObject.tag == "Power UP Velocidad")
+        if (collision.gameObject.tag == "Muerte")
+        {
+
+
+            vida.Damage(100);
+            muerto = true;
+            GC.DiegoMuertoEnLaPruebaDeDiseño();
+            Destroy(gameObject);
+
+
+
+
+
+   
+
+
+        }
+        if (collision.gameObject.tag == "Power UP Salto")
         {
             if (Health == 190)
             {
-                maxSpeed = 10;
-             
+                salto = 350;
+
                 Destroy(collision.gameObject);
 
             }
             if (Health == 200)
             {
 
-                maxSpeed = 10;
-                
+                salto = 350;
                 Destroy(collision.gameObject);
             }
 
