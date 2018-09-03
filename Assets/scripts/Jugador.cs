@@ -15,6 +15,7 @@ public class Jugador : MonoBehaviour
     [SerializeField] bool Estar = false;
     private int cantsaltos = 0;
     public float Health = 200;
+    float lapsodaño = 0f;
 
 
     public void OnCollisionEnter2D(Collision2D collision)
@@ -30,10 +31,9 @@ public class Jugador : MonoBehaviour
             GetComponent<Animator>().SetBool("Aire", false);
             cantsaltos = 0;
         }
-        if (collision.gameObject.tag == "Enemigo")
+        if ((collision.gameObject.tag == "Enemigo")&&(lapsodaño <= 0))
         {
-
-
+            lapsodaño += 3f;
             if (Health == 200)
 
                 vida.Damage(50);
@@ -150,6 +150,11 @@ public class Jugador : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (lapsodaño > 0)
+        {
+            lapsodaño -= Time.deltaTime;
+        }
+
         float move = Input.GetAxis("Horizontal");
         myRB.velocity = new Vector2(move * maxSpeed, myRB.velocity.y);
         ////Codigo de movimiento////
