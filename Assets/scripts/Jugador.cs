@@ -33,7 +33,7 @@ public class Jugador : MonoBehaviour
         }
         if ((collision.gameObject.tag == "Enemigo")&&(lapsodaño <= 0))
         {
-            lapsodaño += 3f;
+            lapsodaño += 1f;
             if (Health == 200)
 
                 vida.Damage(50);

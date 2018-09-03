@@ -1081,7 +1081,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 20819660}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 84.05, y: 1.12, z: 0}
+  m_LocalPosition: {x: 84.21, y: 7.9, z: 0}
   m_LocalScale: {x: 2.0133874, y: 2.0204558, z: 2.0133877}
   m_Children:
   - {fileID: 1482723262}
@@ -1160,7 +1160,7 @@ Transform:
   - {fileID: 1087340649}
   - {fileID: 568099872}
   m_Father: {fileID: 0}
-  m_RootOrder: 21
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &21696912
 GameObject:
@@ -1455,6 +1455,11 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 25387191}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &27619616 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1,
+    type: 2}
+  m_PrefabInternal: {fileID: 1779559640}
 --- !u!1 &31592413
 GameObject:
   m_ObjectHideFlags: 0
@@ -1533,7 +1538,7 @@ Transform:
   - {fileID: 785489449}
   - {fileID: 1401104715}
   m_Father: {fileID: 0}
-  m_RootOrder: 38
+  m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &32102632
 GameObject:
@@ -4389,7 +4394,7 @@ Transform:
   m_LocalScale: {x: 4.7236986, y: 4.8650746, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 43
+  m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &90369787
 Prefab:
@@ -8104,7 +8109,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.05696228}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -8115,7 +8120,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 0.99999994}
+  m_Size: {x: 1, y: 0.88607544}
   m_EdgeRadius: 0
 --- !u!212 &151188600
 SpriteRenderer:
@@ -9072,7 +9077,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4996674736130302, guid: 98a536508edc4a344a07fa97f87244a0, type: 2}
       propertyPath: m_RootOrder
-      value: 14
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 4996674736130302, guid: 98a536508edc4a344a07fa97f87244a0, type: 2}
       propertyPath: m_LocalScale.x
@@ -9195,11 +9200,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 7.467243
+      value: 7.3
       objectReference: {fileID: 0}
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.1933794
+      value: -0.44
       objectReference: {fileID: 0}
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.z
@@ -11365,7 +11370,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4089652450351644, guid: 74fe69feb3719414aabfde779a6df9be, type: 2}
       propertyPath: m_RootOrder
-      value: 33
+      value: 34
       objectReference: {fileID: 0}
     - target: {fileID: 4089652450351644, guid: 74fe69feb3719414aabfde779a6df9be, type: 2}
       propertyPath: m_LocalScale.y
@@ -14705,7 +14710,7 @@ Transform:
   m_LocalScale: {x: 2.8252125, y: 2.8252125, z: 2.8252125}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 46
+  m_RootOrder: 47
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &287510827
 GameObject:
@@ -20043,7 +20048,7 @@ Transform:
   m_LocalScale: {x: 2.3046823, y: 14.939819, z: 1.0835115}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 30
+  m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &415144775 stripped
 Transform:
@@ -23538,7 +23543,7 @@ GameObject:
   - component: {fileID: 492024049}
   m_Layer: 0
   m_Name: Quad (48)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25746,7 +25751,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4089652450351644, guid: 74fe69feb3719414aabfde779a6df9be, type: 2}
       propertyPath: m_RootOrder
-      value: 32
+      value: 33
       objectReference: {fileID: 0}
     - target: {fileID: 4089652450351644, guid: 74fe69feb3719414aabfde779a6df9be, type: 2}
       propertyPath: m_LocalScale.y
@@ -26837,7 +26842,7 @@ Transform:
   m_LocalScale: {x: 22.104929, y: 16.708023, z: 9.537029}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &583527102
 GameObject:
@@ -28378,7 +28383,7 @@ GameObject:
   - component: {fileID: 618473133}
   m_Layer: 0
   m_Name: Quad (55)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28889,11 +28894,11 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 622362565}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -106.6, y: 9.55, z: 0}
+  m_LocalPosition: {x: -106.55, y: 10.6, z: 0}
   m_LocalScale: {x: 3.0212739, y: 3.0212739, z: 3.0212739}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 36
+  m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &622362572
 MonoBehaviour:
@@ -31799,7 +31804,7 @@ Transform:
   - {fileID: 1231668880}
   - {fileID: 2137101324}
   m_Father: {fileID: 0}
-  m_RootOrder: 39
+  m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &693256455
 GameObject:
@@ -32105,7 +32110,7 @@ GameObject:
   - component: {fileID: 695335968}
   m_Layer: 0
   m_Name: Quad (47)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32416,7 +32421,7 @@ Transform:
   m_LocalScale: {x: 4.1282578, y: 4.1282578, z: 4.1282578}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &705459641
 Rigidbody2D:
@@ -33701,7 +33706,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4383411645095744, guid: d5ab527107b1b214ba29be174bb7039b, type: 2}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 114269987449868116, guid: d5ab527107b1b214ba29be174bb7039b,
         type: 2}
@@ -35343,7 +35348,7 @@ Transform:
   m_LocalScale: {x: 4.7236986, y: 4.8650746, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 41
+  m_RootOrder: 42
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &778249564
 GameObject:
@@ -36478,7 +36483,7 @@ GameObject:
   - component: {fileID: 805257894}
   m_Layer: 0
   m_Name: Quad (52)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36508,7 +36513,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.23315367, y: 0.006373465}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -36519,7 +36524,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 0.99999994}
+  m_Size: {x: 0.937121, y: 1.0127469}
   m_EdgeRadius: 0
 --- !u!212 &805257894
 SpriteRenderer:
@@ -36616,7 +36621,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 40
+  m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &807206802
 Prefab:
@@ -36752,7 +36757,7 @@ Transform:
   m_Children:
   - {fileID: 198182550}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &814181585
 GameObject:
@@ -41439,7 +41444,7 @@ Transform:
   m_LocalScale: {x: 2.8252125, y: 2.8252125, z: 2.8252125}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 34
+  m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &933184050
 MonoBehaviour:
@@ -41995,7 +42000,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4288460580016152, guid: 8b311efdefb741e45917427f90fc71c5, type: 2}
       propertyPath: m_RootOrder
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 4288460580016152, guid: 8b311efdefb741e45917427f90fc71c5, type: 2}
       propertyPath: m_LocalScale.y
@@ -45379,7 +45384,7 @@ Transform:
   m_LocalScale: {x: 1.6098231, y: 2.8200784, z: 0.36268207}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &994528459
 GameObject:
@@ -48100,7 +48105,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4740371891520032, guid: c83535b9f63fb3f4790a144e7daab6e8, type: 2}
       propertyPath: m_RootOrder
-      value: 10
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 82606276044719110, guid: c83535b9f63fb3f4790a144e7daab6e8,
         type: 2}
@@ -50782,7 +50787,7 @@ GameObject:
   - component: {fileID: 1114058508}
   m_Layer: 0
   m_Name: Quad (43)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -51729,7 +51734,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4681068388138894, guid: f8b2df8a0b55561488092c3b587b8b86, type: 2}
       propertyPath: m_RootOrder
-      value: 13
+      value: 14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f8b2df8a0b55561488092c3b587b8b86, type: 2}
@@ -53609,6 +53614,11 @@ Prefab:
       propertyPath: Barravida
       value: 
       objectReference: {fileID: 2012629788}
+    - target: {fileID: 114815789485986026, guid: 74fe69feb3719414aabfde779a6df9be,
+        type: 2}
+      propertyPath: protagonist
+      value: 
+      objectReference: {fileID: 347838042}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 74fe69feb3719414aabfde779a6df9be, type: 2}
   m_IsPrefabParent: 0
@@ -54014,11 +54024,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 5.09
+      value: 5.43
       objectReference: {fileID: 0}
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -1.1700001
+      value: -1.67
       objectReference: {fileID: 0}
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.z
@@ -54325,7 +54335,7 @@ Transform:
   m_Children:
   - {fileID: 1201081008}
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1194641026
 GameObject:
@@ -54437,7 +54447,7 @@ GameObject:
   - component: {fileID: 1195258111}
   m_Layer: 0
   m_Name: Quad (53)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55499,7 +55509,7 @@ GameObject:
   - component: {fileID: 1215043869}
   m_Layer: 0
   m_Name: Quad (49)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -55740,7 +55750,7 @@ GameObject:
   - component: {fileID: 1219921612}
   m_Layer: 0
   m_Name: Quad (42)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -57951,7 +57961,7 @@ Transform:
   m_LocalScale: {x: 2.4818254, y: 4.8650746, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 45
+  m_RootOrder: 46
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1268338605
 GameObject:
@@ -58161,11 +58171,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -3.2399979
+      value: -3.01
       objectReference: {fileID: 0}
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.16000009
+      value: 0.29
       objectReference: {fileID: 0}
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.z
@@ -58612,7 +58622,7 @@ GameObject:
   - component: {fileID: 1284037225}
   m_Layer: 0
   m_Name: Quad (46)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59993,12 +60003,12 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1301048796}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 65.91, y: -2.17, z: 0}
+  m_LocalPosition: {x: 66.07, y: 4.61, z: 0}
   m_LocalScale: {x: 3.035871, y: 4.4096727, z: 2.454744}
   m_Children:
   - {fileID: 767526571}
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1306851130
 Prefab:
@@ -62384,11 +62394,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 6.75
+      value: 5.86
       objectReference: {fileID: 0}
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -1.0799999
+      value: -1.16
       objectReference: {fileID: 0}
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.z
@@ -62699,7 +62709,7 @@ Transform:
   m_LocalScale: {x: 2.7310555, y: 14.562502, z: 1.0835115}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 24
+  m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1365529260
 GameObject:
@@ -64113,7 +64123,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1386909522}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -27.9, y: -21.9, z: 0}
+  m_LocalPosition: {x: 72.4, y: 38.1, z: 0}
   m_LocalScale: {x: 2.0583336, y: 2.0451021, z: 2.0133877}
   m_Children:
   - {fileID: 1082399151}
@@ -64192,7 +64202,7 @@ Transform:
   - {fileID: 2071797712}
   - {fileID: 5033159}
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1389117557 stripped
 Transform:
@@ -64493,7 +64503,7 @@ Transform:
   m_LocalScale: {x: 2.7441623, y: 16.195457, z: 1.0835115}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 26
+  m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1402380181
 Prefab:
@@ -65549,7 +65559,7 @@ Transform:
   - {fileID: 278992610}
   - {fileID: 2132083747}
   m_Father: {fileID: 0}
-  m_RootOrder: 22
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -179.94801}
 --- !u!1 &1427025679
 GameObject:
@@ -69150,7 +69160,7 @@ Transform:
   - {fileID: 1815654135}
   - {fileID: 279455}
   m_Father: {fileID: 0}
-  m_RootOrder: 28
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1519813981
 GameObject:
@@ -71712,7 +71722,7 @@ Transform:
   m_LocalScale: {x: 4.79348, y: 2.66435, z: 0.89873}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 42
+  m_RootOrder: 43
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1575934860
 GameObject:
@@ -73075,7 +73085,7 @@ GameObject:
   - component: {fileID: 1608024001}
   m_Layer: 0
   m_Name: Quad (54)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -74429,7 +74439,7 @@ GameObject:
   - component: {fileID: 1650121091}
   m_Layer: 0
   m_Name: Quad (51)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -74459,7 +74469,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.023114145, y: 0.304018}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -74470,7 +74480,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 0.99999994}
+  m_Size: {x: 1.0462283, y: 0.39196402}
   m_EdgeRadius: 0
 --- !u!212 &1650121091
 SpriteRenderer:
@@ -75818,7 +75828,7 @@ GameObject:
   - component: {fileID: 1686416935}
   m_Layer: 0
   m_Name: Quad (45)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -76287,7 +76297,7 @@ GameObject:
   - component: {fileID: 1691399837}
   m_Layer: 0
   m_Name: Quad (44)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -76834,7 +76844,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4074017748628176, guid: 6a52236af3d49c545a0fa06f58706401, type: 2}
       propertyPath: m_RootOrder
-      value: 11
+      value: 12
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6a52236af3d49c545a0fa06f58706401, type: 2}
@@ -79141,6 +79151,72 @@ Transform:
   m_PrefabParentObject: {fileID: 4666718312912324, guid: c03970b8b99a239478130b1eb1bd39d6,
     type: 2}
   m_PrefabInternal: {fileID: 4645695}
+--- !u!1001 &1779559640
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1862888205}
+    m_Modifications:
+    - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 8.017
+      objectReference: {fileID: 0}
+    - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -0.295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1103667807289074, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_Name
+      value: Mapa puas 2_0 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1103667807289074, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_TagString
+      value: Plataforma
+      objectReference: {fileID: 0}
+    - target: {fileID: 1837798785743822, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_TagString
+      value: Plataforma
+      objectReference: {fileID: 0}
+    - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.96604794
+      objectReference: {fileID: 0}
+    - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.9773685
+      objectReference: {fileID: 0}
+    - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.999999
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
+  m_IsPrefabParent: 0
 --- !u!4 &1781751051 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4666718312912324, guid: c03970b8b99a239478130b1eb1bd39d6,
@@ -80631,11 +80707,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4393637557158648, guid: 8fab54da6c5724e4896a9c704de46123, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -112.25
+      value: -113.22
       objectReference: {fileID: 0}
     - target: {fileID: 4393637557158648, guid: 8fab54da6c5724e4896a9c704de46123, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 10.8
+      value: 9.84
       objectReference: {fileID: 0}
     - target: {fileID: 4393637557158648, guid: 8fab54da6c5724e4896a9c704de46123, type: 2}
       propertyPath: m_LocalPosition.z
@@ -80659,7 +80735,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4393637557158648, guid: 8fab54da6c5724e4896a9c704de46123, type: 2}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4393637557158648, guid: 8fab54da6c5724e4896a9c704de46123, type: 2}
       propertyPath: m_LocalScale.x
@@ -81029,7 +81105,7 @@ Transform:
   m_LocalScale: {x: 4.7236986, y: 4.8650746, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 44
+  m_RootOrder: 45
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1833552446
 GameObject:
@@ -82748,8 +82824,9 @@ Transform:
   - {fileID: 1890084016}
   - {fileID: 1406133285}
   - {fileID: 1140859525}
+  - {fileID: 27619616}
   m_Father: {fileID: 0}
-  m_RootOrder: 23
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1866729367
 Prefab:
@@ -82760,11 +82837,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 7.54
+      value: 6.66
       objectReference: {fileID: 0}
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -1.13
+      value: -0.9
       objectReference: {fileID: 0}
     - target: {fileID: 4886029816641072, guid: 6ce0581108d038e4487878cd11e371d1, type: 2}
       propertyPath: m_LocalPosition.z
@@ -87415,12 +87492,12 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1956762908}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 42.77, y: -2.17, z: 0}
+  m_LocalPosition: {x: 42.929996, y: 4.61, z: 0}
   m_LocalScale: {x: 3.035871, y: 4.4096727, z: 2.454744}
   m_Children:
   - {fileID: 1093817659}
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1958001381
 GameObject:
@@ -88686,7 +88763,7 @@ Transform:
   - {fileID: 835211609}
   - {fileID: 248536806}
   m_Father: {fileID: 0}
-  m_RootOrder: 47
+  m_RootOrder: 48
   m_LocalEulerAnglesHint: {x: 0, y: 202.5, z: 0}
 --- !u!1 &1981520976
 GameObject:
@@ -89134,6 +89211,52 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1985922418}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &1987165742
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4996674736130302, guid: 98a536508edc4a344a07fa97f87244a0, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -77.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 4996674736130302, guid: 98a536508edc4a344a07fa97f87244a0, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 4996674736130302, guid: 98a536508edc4a344a07fa97f87244a0, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4996674736130302, guid: 98a536508edc4a344a07fa97f87244a0, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4996674736130302, guid: 98a536508edc4a344a07fa97f87244a0, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4996674736130302, guid: 98a536508edc4a344a07fa97f87244a0, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4996674736130302, guid: 98a536508edc4a344a07fa97f87244a0, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4996674736130302, guid: 98a536508edc4a344a07fa97f87244a0, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1316967654288050, guid: 98a536508edc4a344a07fa97f87244a0, type: 2}
+      propertyPath: m_Name
+      value: Corazones (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 98a536508edc4a344a07fa97f87244a0, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &1987855234
 Prefab:
   m_ObjectHideFlags: 0
@@ -90049,7 +90172,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4839528560591738, guid: 57bdbfa49d5f1bf4a9e9208da7e484cf, type: 2}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 114552476099168188, guid: 57bdbfa49d5f1bf4a9e9208da7e484cf,
         type: 2}
@@ -93678,7 +93801,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4705824757432762, guid: d7e01e414a07e7c4b9c6fc8749053387, type: 2}
       propertyPath: m_RootOrder
-      value: 9
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 114056210134708464, guid: d7e01e414a07e7c4b9c6fc8749053387,
         type: 2}
@@ -94952,7 +95075,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4926105601296814, guid: 1182b1c01d0886b4b89dac234d9b5d9d, type: 2}
       propertyPath: m_RootOrder
-      value: 12
+      value: 13
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1182b1c01d0886b4b89dac234d9b5d9d, type: 2}
@@ -95034,7 +95157,7 @@ GameObject:
   - component: {fileID: 2120450045}
   m_Layer: 0
   m_Name: Quad (50)
-  m_TagString: Power UP Salto
+  m_TagString: Muerte
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
