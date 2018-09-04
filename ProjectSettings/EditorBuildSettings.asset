@@ -13,7 +13,7 @@ EditorBuildSettings:
     guid: e814ebdd01d92414e952b202474f37df
   - enabled: 1
     path: Assets/escenas/tutorial.unity
-    guid: e8f7da0f5cef1a54395d08d7c71f7df7
+    guid: 28bea864e11d6774183c91e166a525a0
   - enabled: 1
     path: Assets/NIVEL_1_DEFINITIVO.unity
     guid: ea41a5c9189638743a7cbab5f1cbde52
@@ -21,5 +21,8 @@ EditorBuildSettings:
     path: Assets/NIVEL_2_DEFINITIVO.unity
     guid: 0a83eb038043a104c915a13769696c69
   - enabled: 1
-    path: Assets/escenas/creditos finales.unity
+    path: Assets/escenas/final.unity
+    guid: 62f79b78ecf823345951a4bdef87bb8b
+  - enabled: 1
+    path: Assets/escenas/creditosFinales.unity
     guid: 961722be4cec21745ba2314a983eb2a7
