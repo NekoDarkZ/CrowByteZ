@@ -24,6 +24,7 @@ public class Jugador : MonoBehaviour
         {
             Estar = true;
             GC.MostrarBarra();
+            Destroy(collision.gameObject);
         }
         ///revisa si toca el piso
         if (collision.gameObject.tag == "Plataforma")
@@ -85,7 +86,7 @@ public class Jugador : MonoBehaviour
         {
             if (Health == 190)
             {
-                salto = 350;
+                salto = 400;
 
                 Destroy(collision.gameObject);
 
@@ -93,17 +94,17 @@ public class Jugador : MonoBehaviour
             if (Health == 200)
             {
 
-                salto = 350;
+                salto = 400;
                 Destroy(collision.gameObject);
             }
 
 
         }
-        if (collision.gameObject.tag == "Power UP Salto")
+        if (collision.gameObject.tag == "Power UP Velocidad")
         {
             if (Health == 190)
             {
-                salto = 350;
+                maxSpeed = 10;
 
                 Destroy(collision.gameObject);
 
@@ -111,7 +112,7 @@ public class Jugador : MonoBehaviour
             if (Health == 200)
             {
 
-                salto = 350;
+                maxSpeed = 10;
                 Destroy(collision.gameObject);
             }
 

@@ -1148,7 +1148,6 @@ GameObject:
   - component: {fileID: 70745781}
   - component: {fileID: 70745780}
   - component: {fileID: 70745779}
-  - component: {fileID: 70745782}
   m_Layer: 0
   m_Name: Cawswtel_1 (3)
   m_TagString: Plataforma
@@ -1238,19 +1237,6 @@ Transform:
   m_Father: {fileID: 2110886246}
   m_RootOrder: 62
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &70745782
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 70745778}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7f072409847a65a408d65b4d0fb321e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentState: 0
-  velocidad: 0.01
 --- !u!1 &71672231
 GameObject:
   m_ObjectHideFlags: 0
@@ -7576,7 +7562,6 @@ GameObject:
   - component: {fileID: 496821415}
   - component: {fileID: 496821414}
   - component: {fileID: 496821413}
-  - component: {fileID: 496821416}
   m_Layer: 0
   m_Name: Cawswtel_1 (8)
   m_TagString: Plataforma
@@ -7666,19 +7651,6 @@ Transform:
   m_Father: {fileID: 2110886246}
   m_RootOrder: 67
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &496821416
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 496821412}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7f072409847a65a408d65b4d0fb321e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentState: 0
-  velocidad: 0
 --- !u!1 &502861845
 GameObject:
   m_ObjectHideFlags: 0
@@ -9842,7 +9814,6 @@ GameObject:
   - component: {fileID: 751054430}
   - component: {fileID: 751054429}
   - component: {fileID: 751054428}
-  - component: {fileID: 751054431}
   m_Layer: 0
   m_Name: Cawswtel_1 (4)
   m_TagString: Plataforma
@@ -9932,19 +9903,6 @@ Transform:
   m_Father: {fileID: 2110886246}
   m_RootOrder: 63
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &751054431
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 751054427}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7f072409847a65a408d65b4d0fb321e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentState: 0
-  velocidad: 0.01
 --- !u!1001 &763555443
 Prefab:
   m_ObjectHideFlags: 0
@@ -12205,8 +12163,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 934953483}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.3236, y: 6.82, z: -2}
-  m_LocalScale: {x: 0.033464015, y: 0.052731525, z: 1}
+  m_LocalPosition: {x: 5.519, y: 5.987, z: -2}
+  m_LocalScale: {x: 0.45136276, y: 0.17035073, z: 1}
   m_Children: []
   m_Father: {fileID: 232909461}
   m_RootOrder: 0
@@ -17778,7 +17736,6 @@ GameObject:
   - component: {fileID: 1451706862}
   - component: {fileID: 1451706861}
   - component: {fileID: 1451706860}
-  - component: {fileID: 1451706863}
   m_Layer: 0
   m_Name: Cawswtel_1 (5)
   m_TagString: Plataforma
@@ -17868,19 +17825,6 @@ Transform:
   m_Father: {fileID: 2110886246}
   m_RootOrder: 64
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1451706863
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1451706859}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7f072409847a65a408d65b4d0fb321e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentState: 0
-  velocidad: 0.01
 --- !u!1 &1453354289
 GameObject:
   m_ObjectHideFlags: 0
@@ -18800,7 +18744,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1531950800}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -63.8, y: 30.1, z: 0}
+  m_LocalPosition: {x: -18, y: 8.05, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1171230987}
@@ -20283,7 +20227,6 @@ GameObject:
   - component: {fileID: 1644218459}
   - component: {fileID: 1644218458}
   - component: {fileID: 1644218457}
-  - component: {fileID: 1644218460}
   m_Layer: 0
   m_Name: Cawswtel_1 (6)
   m_TagString: Plataforma
@@ -20373,19 +20316,6 @@ Transform:
   m_Father: {fileID: 2110886246}
   m_RootOrder: 65
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1644218460
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1644218456}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7f072409847a65a408d65b4d0fb321e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentState: 0
-  velocidad: 0.01
 --- !u!1001 &1645292690
 Prefab:
   m_ObjectHideFlags: 0
@@ -22367,7 +22297,6 @@ GameObject:
   - component: {fileID: 1877538434}
   - component: {fileID: 1877538433}
   - component: {fileID: 1877538432}
-  - component: {fileID: 1877538435}
   m_Layer: 0
   m_Name: Cawswtel_1 (7)
   m_TagString: Plataforma
@@ -22457,19 +22386,6 @@ Transform:
   m_Father: {fileID: 2110886246}
   m_RootOrder: 66
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1877538435
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1877538431}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7f072409847a65a408d65b4d0fb321e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentState: 0
-  velocidad: 0.01
 --- !u!1001 &1886236565
 Prefab:
   m_ObjectHideFlags: 0

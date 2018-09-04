@@ -17,11 +17,12 @@ public class GC : MonoBehaviour {
     [SerializeField] GameObject BarravidaChao;
     [SerializeField] GameObject Theme;
     [SerializeField] GameObject ThemeBoss;
- 
+    [SerializeField] GameObject BOSS2;
 
 
 
-    
+
+
 
 
     // Use this for initialization
@@ -66,6 +67,8 @@ public class GC : MonoBehaviour {
     public void MostrarBarra()
     {
 
+
+        BOSS2.SetActive(true);
         CamaraPrincipal.SetActive(false);
         CamaraPrincipal = GameObject.FindWithTag("MainCamera");
         CamaraBoss.SetActive(true);
