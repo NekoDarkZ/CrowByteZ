@@ -13,25 +13,25 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: hechizo
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: pilar
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: fase2
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -58,7 +58,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   timer: 5.34
   prefab: {fileID: 1794108119986046, guid: c53a950f3bffc62478fbdcf91837cd66, type: 2}
-  tiempodestruccion: 0.7
+  tiempodestruccion: 40
 --- !u!114 &114451070251762382
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -86,7 +86,7 @@ MonoBehaviour:
   timer: 6.88
   posiciony: -0.35
   prefab: {fileID: 1097198343551860, guid: 7e6c9dd6b1008df40a468799e948ec0f, type: 2}
-  tiempodestruccion: 0.85
+  tiempodestruccion: 40
 --- !u!114 &114829019950692292
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -557,7 +557,7 @@ AnimatorStateMachine:
     m_Position: {x: 696, y: 228, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102569175489390318}
-    m_Position: {x: 420, y: 408, z: 0}
+    m_Position: {x: 432, y: 408, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102842577465173600}
     m_Position: {x: 432, y: 84, z: 0}
