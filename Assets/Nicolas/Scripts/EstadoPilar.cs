@@ -43,7 +43,7 @@ public class EstadoPilar : StateMachineBehaviour {
             prefabClone = Instantiate(prefab, new Vector2(posicionjugador.position.x, posiciony), Quaternion.identity) as GameObject;
             Destroy(prefabClone, tiempodestruccion);
             //increment next_spawn_time
-            timerpilar += 0.5f;
+            timerpilar += 0.45f;
         }
 
 

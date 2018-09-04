@@ -39,7 +39,7 @@ public class EstadoHechizo : StateMachineBehaviour {
             posicionjugador = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
             prefabClone = Instantiate(prefab, new Vector2(posicionjugador.position.x, posicionjugador.position.y), Quaternion.identity) as GameObject;
             Destroy(prefabClone, tiempodestruccion);
-            timerfuego += 0.3f;
+            timerfuego += 0.60f;
         }
     }
 }
