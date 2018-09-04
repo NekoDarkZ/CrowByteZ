@@ -31,6 +31,7 @@ TagManager:
   - muerte
   - Muerte
   - POWER UP
+  - creditos
   layers:
   - Default
   - TransparentFX
