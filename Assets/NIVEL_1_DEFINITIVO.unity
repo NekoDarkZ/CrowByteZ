@@ -2413,7 +2413,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 83.96, y: -31.18}
+  m_AnchoredPosition: {x: 122, y: -51}
   m_SizeDelta: {x: 155.22, y: 197.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &182096773
@@ -9791,6 +9791,7 @@ MonoBehaviour:
   BarravidaChao: {fileID: 791885120}
   Theme: {fileID: 1740799998}
   ThemeBoss: {fileID: 907193616}
+  BOSS2: {fileID: 0}
 --- !u!4 &746608135
 Transform:
   m_ObjectHideFlags: 0
@@ -10495,7 +10496,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -74.495, y: -31.18}
+  m_AnchoredPosition: {x: -121, y: -51}
   m_SizeDelta: {x: 148.99, y: 52.49}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &804779885
@@ -15570,7 +15571,7 @@ MonoBehaviour:
   m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -20772,6 +20773,11 @@ Prefab:
         type: 2}
       propertyPath: m_SizeDelta.y
       value: 0.98999023
+      objectReference: {fileID: 0}
+    - target: {fileID: 114853943648892006, guid: 41ad393bd4ca99042b3e98e6fb42feba,
+        type: 2}
+      propertyPath: m_UiScaleMode
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 41ad393bd4ca99042b3e98e6fb42feba, type: 2}
