@@ -12,6 +12,12 @@ EditorBuildSettings:
     path: Assets/escenas/Creditos.unity
     guid: e814ebdd01d92414e952b202474f37df
   - enabled: 1
+    path: Assets/escenas/intro/PrimeraIntro.unity
+    guid: 7aa3140e95610454cb65c01bc8c63115
+  - enabled: 1
+    path: Assets/escenas/intro/SegundaIntro.unity
+    guid: bef65a2e1ea3e9f4286f724103fb96b0
+  - enabled: 1
     path: Assets/escenas/tutorial.unity
     guid: 28bea864e11d6774183c91e166a525a0
   - enabled: 1
