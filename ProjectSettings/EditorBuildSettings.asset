@@ -16,7 +16,10 @@ EditorBuildSettings:
     guid: e8f7da0f5cef1a54395d08d7c71f7df7
   - enabled: 1
     path: Assets/NIVEL_1_DEFINITIVO.unity
-    guid: 0ffd85f722629044f9eaf9f7bc0303d0
+    guid: ea41a5c9189638743a7cbab5f1cbde52
   - enabled: 1
     path: Assets/NIVEL_2_DEFINITIVO.unity
-    guid: 019b5d5072f9111489f31799cc772f8c
+    guid: 0a83eb038043a104c915a13769696c69
+  - enabled: 1
+    path: Assets/escenas/creditos finales.unity
+    guid: 961722be4cec21745ba2314a983eb2a7
