@@ -40,7 +40,7 @@ public class GC : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-		if (gameOver == true && (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Z)))
+		if (gameOver == true && Input.GetKeyDown(KeyCode.Z))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
