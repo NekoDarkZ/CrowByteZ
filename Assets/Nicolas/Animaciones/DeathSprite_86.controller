@@ -58,7 +58,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   timer: 5.34
   prefab: {fileID: 1546784370026772, guid: 6651bf69fd8a54c4cbe200be0513729b, type: 2}
-  tiempodestruccion: 40
+  tiempodestruccion: 1
 --- !u!114 &114451070251762382
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -85,8 +85,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   timer: 6.88
   posiciony: -0.35
-  prefab: {fileID: 1097198343551860, guid: 7e6c9dd6b1008df40a468799e948ec0f, type: 2}
-  tiempodestruccion: 40
+  prefab: {fileID: 1794108119986046, guid: c53a950f3bffc62478fbdcf91837cd66, type: 2}
+  tiempodestruccion: 1
 --- !u!114 &114829019950692292
 MonoBehaviour:
   m_ObjectHideFlags: 1
